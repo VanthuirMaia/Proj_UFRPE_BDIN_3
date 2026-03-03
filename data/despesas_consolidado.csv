@@ -1,0 +1,585 @@
+ano,orgao,codigo_orgao,orgao_superior,codigo_orgao_superior,empenhado,liquidado,pago,taxa_execucao,taxa_pagamento
+2020,Fundo Nacional de Desenvolvimento da Educação,26298,Ministério da Educação,26000,47931776674.75,37683086299.69,37668659317.2,78.62,78.59
+2020,Empresa Brasileira de Serviços Hospitalares,26443,Ministério da Educação,26000,7943104937.19,7144331045.6,6712898908.95,89.94,84.51
+2020,Universidade Federal do Rio de Janeiro,26245,Ministério da Educação,26000,4158880420.78,4036787394.2,3805025965.57,97.06,91.49
+2020,Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,26291,Ministério da Educação,26000,3451763702.4,2999117003.01,2992374868.91,86.89,86.69
+2020,Universidade Federal de Minas Gerais,26238,Ministério da Educação,26000,2508246789.64,2419402743.4,2284283916.38,96.46,91.07
+2020,Universidade Federal Fluminense,26236,Ministério da Educação,26000,2384510727.98,2253606082.39,2115246722.95,94.51,88.71
+2020,Universidade Federal do Rio Grande do Sul,26244,Ministério da Educação,26000,1997143732.08,1938418238.37,1824942274.07,97.06,91.38
+2020,Universidade Federal da Bahia,26232,Ministério da Educação,26000,1968764533.96,1925267736.53,1807777358.71,97.79,91.82
+2020,Fundação Universidade de Brasília,26271,Ministério da Educação,26000,2144305961.89,1910431794.82,1802182955.01,89.09,84.05
+2020,Universidade Federal da Paraíba,26240,Ministério da Educação,26000,1969751966.93,1901972200.12,1757876172.8,96.56,89.24
+2020,Universidade Federal do Paraná,26241,Ministério da Educação,26000,1898895050.97,1834709231.9,1731338987.49,96.62,91.18
+2020,Universidade Federal de Santa Catarina,26246,Ministério da Educação,26000,2006701829.92,1833384970.88,1712868159.65,91.36,85.36
+2020,Universidade Federal de Pernambuco,26242,Ministério da Educação,26000,1895154922.1,1813526870.83,1697701927.12,95.69,89.58
+2020,Universidade Federal do Rio Grande do Norte,26243,Ministério da Educação,26000,1944171174.22,1787973902.71,1667037227.28,91.97,85.75
+2020,Universidade Federal do Ceará,26233,Ministério da Educação,26000,1730049843.14,1658889077.61,1560696160.27,95.89,90.21
+2020,Fundação Universidade Federal de Uberlândia,26274,Ministério da Educação,26000,1672725228.73,1611283634.86,1524017120.81,96.33,91.11
+2020,Hospital de Clínicas de Porto Alegre,26294,Ministério da Educação,26000,1596688434.54,1553817331.68,1460371832.52,97.31,91.46
+2020,Universidade Federal do Pará,26239,Ministério da Educação,26000,1591408485.05,1520562613.22,1428955340.84,95.55,89.79
+2020,Universidade Federal de São Paulo,26262,Ministério da Educação,26000,1492024396.3,1429557335.21,1350896779.66,95.81,90.54
+2020,Universidade Federal de Goiás,26235,Ministério da Educação,26000,1458174205.7,1415854738.49,1315467054.37,97.1,90.21
+2020,Universidade Federal de Santa Maria,26247,Ministério da Educação,26000,1493080190.03,1400001512.19,1286553162.86,93.77,86.17
+2020,Ministério da Educação - Unidades com vínculo direto,26000,Ministério da Educação,26000,1250762480.07,1070780710.43,1010314728.98,85.61,80.78
+2020,Universidade Federal do Espírito Santo,26234,Ministério da Educação,26000,1118830613.6,1071991482.05,1001514584.16,95.81,89.51
+2020,Universidade Federal de Alagoas,26231,Ministério da Educação,26000,1003694900.82,979046681.81,917200044.23,97.54,91.38
+2020,Universidade Tecnológica Federal do Paraná,26258,Ministério da Educação,26000,1062184354.2,983557796.3,914192958.57,92.6,86.07
+2020,Universidade Federal de Juiz de Fora,26237,Ministério da Educação,26000,1030271580.6,955480809.24,904761960.77,92.74,87.82
+2020,"Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",26439,Ministério da Educação,26000,990631860.74,941388548.62,885447952.72,95.03,89.38
+2020,Universidade Federal de Viçosa,26282,Ministério da Educação,26000,986564160.02,919063831.38,856869399.79,93.16,86.85
+2020,Fundação Universidade Federal do Mato Grosso,26276,Ministério da Educação,26000,972061653.97,911173468.25,854183240.55,93.74,87.87
+2020,Fundação Universidade Federal do Mato Grosso do Sul,26283,Ministério da Educação,26000,944927441.44,898972026.46,846219386.86,95.14,89.55
+2020,Fundação Universidade do Maranhão,26272,Ministério da Educação,26000,936243941.39,905242708.81,844217117.8,96.69,90.17
+2020,Fundação Universidade Federal de Pelotas,26278,Ministério da Educação,26000,863981353.68,844734500.01,791923424.49,97.77,91.66
+2020,Fundação Universidade Federal do Piauí,26279,Ministério da Educação,26000,851977782.52,811562323.21,759227701.05,95.26,89.11
+2020,Fundação Universidade do Amazonas,26270,Ministério da Educação,26000,859857258.41,796041677.48,744856894.59,92.58,86.63
+2020,Fundação Universidade Federal de Sergipe,26281,Ministério da Educação,26000,833811298.98,790013706.14,738099918.44,94.75,88.52
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Ceará",26405,Ministério da Educação,26000,817540012.54,750421847.85,689517398.32,91.79,84.34
+2020,Universidade Federal de Campina Grande,26252,Ministério da Educação,26000,795427981.09,746475383.68,688871127.55,93.85,86.6
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",26406,Ministério da Educação,26000,775418848.29,715280825.66,658797196.22,92.24,84.96
+2020,Colégio Pedro II,26201,Ministério da Educação,26000,716306885.21,681919167.45,631866815.54,95.2,88.21
+2020,Fundação Universidade Federal de São Carlos,26280,Ministério da Educação,26000,678664892.1,661615889.81,620734902.88,97.49,91.46
+2020,Universidade Federal Rural do Rio de Janeiro,26249,Ministério da Educação,26000,710589962.22,672242536.86,615507438.36,94.6,86.62
+2020,Universidade Federal Rural de Pernambuco,26248,Ministério da Educação,26000,670909548.58,635667292.99,595557351.05,94.75,88.77
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Maranhão",26408,Ministério da Educação,26000,656549891.89,622906366.0,579262890.39,94.88,88.23
+2020,Universidade Federal do Estado do Rio de Janeiro,26269,Ministério da Educação,26000,629511719.29,595852257.64,564988345.04,94.65,89.75
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",26435,Ministério da Educação,26000,678724486.2,604752532.06,557174218.2,89.1,82.09
+2020,"Instituto Federal de Educação, Ciência e Tecnologia da Bahia",26427,Ministério da Educação,26000,623915118.64,592351267.49,550882237.5,94.94,88.29
+2020,"Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina",26438,Ministério da Educação,26000,639220294.51,593670649.43,546948244.23,92.87,85.56
+2020,Universidade Federal do Rio Grande,26273,Ministério da Educação,26000,593414648.37,578101514.26,539585499.25,97.42,90.93
+2020,"Instituto Federal de Educação, Ciência e Tecnologia da Paraíba",26417,Ministério da Educação,26000,601483829.09,563139916.6,521076945.93,93.63,86.63
+2020,"Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco",26418,Ministério da Educação,26000,583528245.67,554798259.57,512485781.77,95.08,87.83
+2020,Universidade Federal do Triângulo Mineiro,26254,Ministério da Educação,26000,538020251.67,523810439.37,494880638.08,97.36,91.98
+2020,"Instituto Federal de Educação, Ciência e Tecnologia de Goiás",26429,Ministério da Educação,26000,508683036.75,485903012.74,448053377.12,95.52,88.08
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Pará",26416,Ministério da Educação,26000,494617997.37,468966437.18,441901832.03,94.81,89.34
+2020,Centro Federal de Educação Tecnológica de Minas Gerais,26257,Ministério da Educação,26000,497674757.56,467444339.52,433764883.02,93.93,87.16
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",26419,Ministério da Educação,26000,479317211.22,454306925.72,427119437.43,94.78,89.11
+2020,"Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",26436,Ministério da Educação,26000,482618702.6,453624439.43,422272526.69,93.99,87.5
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Piauí",26431,Ministério da Educação,26000,479710600.49,453277522.48,420936851.07,94.49,87.75
+2020,Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira,26290,Ministério da Educação,26000,1192235525.23,421694536.23,416236803.55,35.37,34.91
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso",26414,Ministério da Educação,26000,490552075.76,444711419.47,415341861.66,90.66,84.67
+2020,Universidade Federal de Ouro Preto,26277,Ministério da Educação,26000,461932337.53,435259250.03,408756742.31,94.23,88.49
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",26433,Ministério da Educação,26000,443820035.13,422926123.31,400887944.32,95.29,90.33
+2020,Instituto Federal do Paraná,26432,Ministério da Educação,26000,464693146.7,422446068.96,396222424.68,90.91,85.27
+2020,"Instituto Federal de Educação, Ciência e Tecnologia de Alagoas",26402,Ministério da Educação,26000,460188098.4,427975456.29,395482345.24,93.0,85.94
+2020,"Instituto Federal de Educação, Ciência e Tecnologia Fluminense",26434,Ministério da Educação,26000,444460978.29,421236115.93,387055157.3,94.77,87.08
+2020,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,26256,Ministério da Educação,26000,420666324.1,414189681.64,384523750.2,98.46,91.41
+2020,"Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",26409,Ministério da Educação,26000,452193171.26,413125497.65,384488771.98,91.36,85.03
+2020,Universidade Federal de Lavras,26263,Ministério da Educação,26000,438281720.16,395702662.09,372259125.17,90.29,84.94
+2020,Fundação Universidade Federal do Tocantins,26251,Ministério da Educação,26000,422185886.44,370677608.13,348480818.57,87.8,82.54
+2020,"Instituto Federal de Educação, Ciência e Tecnologia Catarinense",26422,Ministério da Educação,26000,407844405.66,368155988.89,344424806.97,90.27,84.45
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",26403,Ministério da Educação,26000,426573185.96,358282278.13,327352644.15,83.99,76.74
+2020,Fundação Universidade Federal do Acre,26275,Ministério da Educação,26000,367162194.52,343931503.36,322011665.57,93.67,87.7
+2020,Fundação Universidade Federal do Pampa,26266,Ministério da Educação,26000,355202927.1,328422690.85,307532176.04,92.46,86.58
+2020,Fundação Universidade Federal de São João Del-Rei,26285,Ministério da Educação,26000,360541325.75,327279704.14,307004513.77,90.77,85.15
+2020,"Instituto Federal de Educação, Ciência e Tecnologia Baiano",26404,Ministério da Educação,26000,349007696.18,316596863.52,295471510.25,90.71,84.66
+2020,"Instituto Federal de Educação, Ciência e Tecnologia Goiano",26407,Ministério da Educação,26000,379789071.37,316460169.81,294494690.78,83.33,77.54
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais",26411,Ministério da Educação,26000,321654436.8,296986910.18,279293815.96,92.33,86.83
+2020,"Instituto Federal de Educação, Ciência e Tecnologia Farroupilha",26420,Ministério da Educação,26000,326437913.06,299100206.56,278865905.48,91.63,85.43
+2020,Universidade Federal do Recôncavo da Bahia,26351,Ministério da Educação,26000,325874440.03,297482427.11,277095447.57,91.29,85.03
+2020,Fundação Universidade Federal do ABC,26352,Ministério da Educação,26000,333264392.28,292117070.08,276200963.26,87.65,82.88
+2020,Fundação Universidade Federal de Rondônia,26268,Ministério da Educação,26000,310466926.08,290859225.64,272510646.09,93.68,87.77
+2020,Universidade Federal dos Vales do Jequitinhonha e Mucuri,26255,Ministério da Educação,26000,311760858.21,281960717.79,263543597.14,90.44,84.53
+2020,Universidade Federal Rural do Semi-Árido,26264,Ministério da Educação,26000,313274160.31,281032119.62,262944888.58,89.71,83.93
+2020,"Instituto Federal de Educação, Ciência e Tecnologia de Sergipe",26423,Ministério da Educação,26000,292528985.81,279991615.71,260107361.71,95.71,88.92
+2020,Fundação Universidade Federal da Grande Dourados,26350,Ministério da Educação,26000,295667376.38,274709962.8,257254496.82,92.91,87.01
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais",26410,Ministério da Educação,26000,301942829.2,272106424.69,253477915.53,90.12,83.95
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",26412,Ministério da Educação,26000,315976323.16,272058814.49,252435003.03,86.1,79.89
+2020,Universidade Federal da Fronteira Sul,26440,Ministério da Educação,26000,297450231.44,258675164.73,243976470.33,86.96,82.02
+2020,Universidade Federal Rural da Amazônia,26253,Ministério da Educação,26000,271474148.89,248362862.59,232586844.21,91.49,85.68
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro",26413,Ministério da Educação,26000,258233587.93,243166336.29,227755058.89,94.17,88.2
+2020,"Instituto Federal de Educação, Ciência e Tecnologia de Brasília",26428,Ministério da Educação,26000,265700172.57,236852486.47,224072386.74,89.14,84.33
+2020,Universidade Federal de Alfenas,26260,Ministério da Educação,26000,263339214.24,237881309.73,222547290.58,90.33,84.51
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Tocantins",26424,Ministério da Educação,26000,259947766.15,240045271.5,222202763.25,92.34,85.48
+2020,Universidade Federal de Itajubá,26261,Ministério da Educação,26000,251102587.89,230153939.96,215135287.23,91.66,85.68
+2020,Universidade Federal de Roraima,26250,Ministério da Educação,26000,250976593.11,223984073.7,210292245.09,89.25,83.79
+2020,Fundação Universidade Federal do Vale do São Francisco,26230,Ministério da Educação,26000,245125381.09,217471673.31,205292797.33,88.72,83.75
+2020,"Instituto Federal de Educação, Ciência e Tecnologia de Rondônia",26421,Ministério da Educação,26000,258968523.17,219957534.94,203990615.23,84.94,78.77
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul",26415,Ministério da Educação,26000,218740346.26,204288879.08,190855797.42,93.39,87.25
+2020,Universidade Federal do Oeste do Pará,26441,Ministério da Educação,26000,211045555.75,197811469.43,187337170.87,93.73,88.77
+2020,Fundação Universidade Federal do Amapá,26286,Ministério da Educação,26000,220030660.57,189890166.47,178268650.23,86.3,81.02
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Sertão de Pernambuco",26430,Ministério da Educação,26000,197587727.86,187002605.75,171570333.34,94.64,86.83
+2020,Universidade Federal da Integração Latino-Americana,26267,Ministério da Educação,26000,178982515.03,160632251.4,151598718.54,89.75,84.7
+2020,Fundação Universidade Federal de Ciências da Saúde de Porto Alegre,26284,Ministério da Educação,26000,177901716.76,156052844.93,147514480.17,87.72,82.92
+2020,Universidade da Integração Internacional da Lusofonia Afro-Brasileira,26442,Ministério da Educação,26000,152571843.64,139736117.5,130699977.83,91.59,85.66
+2020,Universidade Federal do Sul e Sudeste do Pará,26448,Ministério da Educação,26000,149585275.11,131849810.4,124038229.46,88.14,82.92
+2020,"Instituto Federal de Educação, Ciência e Tecnologia de Roraima",26437,Ministério da Educação,26000,138335474.49,125236447.65,117087186.14,90.53,84.64
+2020,Fundação Joaquim Nabuco,26292,Ministério da Educação,26000,129737621.11,123484183.37,116424735.72,95.18,89.74
+2020,Universidade Federal do Cariri,26449,Ministério da Educação,26000,126054484.79,113586022.94,107003357.43,90.11,84.89
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Acre",26425,Ministério da Educação,26000,124631025.65,113219257.25,106143512.36,90.84,85.17
+2020,Universidade Federal do Oeste da Bahia,26447,Ministério da Educação,26000,119893893.17,108428555.46,102705984.52,90.44,85.66
+2020,Universidade Federal do Sul da Bahia,26450,Ministério da Educação,26000,117879959.94,102507819.27,96819941.96,86.96,82.13
+2020,"Instituto Federal de Educação, Ciência e Tecnologia do Amapá",26426,Ministério da Educação,26000,113169608.42,91674207.18,85818113.41,81.01,75.83
+2020,Universidade Federal de Jataí,26453,Ministério da Educação,26000,56711513.3,50437655.74,43022908.0,88.94,75.86
+2020,Universidade Federal de Catalão,26452,Ministério da Educação,26000,47658908.9,41441172.73,35808756.7,86.95,75.14
+2020,Universidade Federal do Agreste de Pernambuco,26456,Ministério da Educação,26000,37320498.72,34900999.55,31067521.96,93.52,83.25
+2020,Universidade Federal do Delta do Parnaíba,26455,Ministério da Educação,26000,36228590.05,32230411.93,27944041.9,88.96,77.13
+2020,Universidade Federal de Rondonópolis,26454,Ministério da Educação,26000,40069640.81,31231701.19,25567803.22,77.94,63.81
+2021,Fundo Nacional de Desenvolvimento da Educação,26298,Ministério da Educação,26000,55278791308.84,45578348451.91,45565320445.42,82.45,82.43
+2021,Empresa Brasileira de Serviços Hospitalares,26443,Ministério da Educação,26000,8561589383.31,7764079251.21,7393141167.23,90.69,86.35
+2021,Universidade Federal do Rio de Janeiro,26245,Ministério da Educação,26000,4024479923.27,3925137674.79,3671238963.91,97.53,91.22
+2021,Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,26291,Ministério da Educação,26000,3310354999.16,3099032577.9,3093192803.12,93.62,93.44
+2021,Universidade Federal de Minas Gerais,26238,Ministério da Educação,26000,2455673678.66,2407940195.41,2271289118.05,98.06,92.49
+2021,Universidade Federal Fluminense,26236,Ministério da Educação,26000,2358091160.38,2254491781.71,2096526494.78,95.61,88.91
+2021,Universidade Federal do Rio Grande do Sul,26244,Ministério da Educação,26000,2213065593.8,2097464661.46,1892891310.45,94.78,85.53
+2021,Universidade Federal da Bahia,26232,Ministério da Educação,26000,1976394942.9,1934287964.44,1816728784.77,97.87,91.92
+2021,Universidade Federal da Paraíba,26240,Ministério da Educação,26000,1962351790.77,1917716926.07,1772597344.61,97.73,90.33
+2021,Fundação Universidade de Brasília,26271,Ministério da Educação,26000,2041449714.99,1879173735.71,1766993457.71,92.05,86.56
+2021,Universidade Federal do Paraná,26241,Ministério da Educação,26000,1914421021.24,1853497481.16,1744400972.07,96.82,91.12
+2021,Universidade Federal de Santa Catarina,26246,Ministério da Educação,26000,1938285518.58,1848251243.52,1716715244.45,95.35,88.57
+2021,Universidade Federal do Rio Grande do Norte,26243,Ministério da Educação,26000,1900063681.47,1814907756.6,1694926308.59,95.52,89.2
+2021,Universidade Federal de Pernambuco,26242,Ministério da Educação,26000,1899962127.28,1816842902.97,1692040398.32,95.63,89.06
+2021,Universidade Federal do Ceará,26233,Ministério da Educação,26000,1700548912.62,1671897824.4,1571152887.47,98.32,92.39
+2021,Hospital de Clínicas de Porto Alegre,26294,Ministério da Educação,26000,1697036595.01,1634342212.97,1511149346.56,96.31,89.05
+2021,Fundação Universidade Federal de Uberlândia,26274,Ministério da Educação,26000,1592056979.14,1549485212.48,1461253732.7,97.33,91.78
+2021,Universidade Federal do Pará,26239,Ministério da Educação,26000,1571508935.57,1509723275.86,1417219114.12,96.07,90.18
+2021,Universidade Federal de São Paulo,26262,Ministério da Educação,26000,1506677038.39,1445439397.56,1359378910.05,95.94,90.22
+2021,Universidade Federal de Santa Maria,26247,Ministério da Educação,26000,1484073119.58,1430912449.28,1345905890.36,96.42,90.69
+2021,Universidade Federal de Goiás,26235,Ministério da Educação,26000,1346017307.72,1312293674.66,1210980211.06,97.49,89.97
+2021,Ministério da Educação - Unidades com vínculo direto,26000,Ministério da Educação,26000,1169119710.67,1089649136.3,1045412277.79,93.2,89.42
+2021,Universidade Federal do Espírito Santo,26234,Ministério da Educação,26000,1123265951.2,1075973241.1,1005625237.19,95.79,89.53
+2021,Universidade Federal de Alagoas,26231,Ministério da Educação,26000,1034545458.08,1007301352.53,943836959.76,97.37,91.23
+2021,Universidade Federal de Juiz de Fora,26237,Ministério da Educação,26000,1043125436.15,970965053.36,916115136.56,93.08,87.82
+2021,Universidade Tecnológica Federal do Paraná,26258,Ministério da Educação,26000,1049588401.56,985371034.39,911620478.76,93.88,86.86
+2021,"Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",26439,Ministério da Educação,26000,1045023990.12,982577101.77,910354015.58,94.02,87.11
+2021,Universidade Federal de Viçosa,26282,Ministério da Educação,26000,1014039251.25,947416718.64,882312989.51,93.43,87.01
+2021,Fundação Universidade Federal do Mato Grosso do Sul,26283,Ministério da Educação,26000,1021889469.84,931325312.18,878748190.0,91.14,85.99
+2021,Fundação Universidade do Maranhão,26272,Ministério da Educação,26000,951571177.03,903257848.02,847222290.5,94.92,89.03
+2021,Fundação Universidade Federal do Mato Grosso,26276,Ministério da Educação,26000,907947384.07,877074686.79,813000317.21,96.6,89.54
+2021,Fundação Universidade Federal de Pelotas,26278,Ministério da Educação,26000,842769615.67,838047838.66,782609263.67,99.44,92.86
+2021,Fundação Universidade Federal de Sergipe,26281,Ministério da Educação,26000,837490703.04,811091389.66,757603527.77,96.85,90.46
+2021,Fundação Universidade do Amazonas,26270,Ministério da Educação,26000,845612748.2,795655924.76,737717018.87,94.09,87.24
+2021,Fundação Universidade Federal do Piauí,26279,Ministério da Educação,26000,833790038.92,797998225.66,727926847.11,95.71,87.3
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Ceará",26405,Ministério da Educação,26000,811250248.25,777000839.0,714257688.3,95.78,88.04
+2021,Universidade Federal de Campina Grande,26252,Ministério da Educação,26000,803896847.0,770124788.98,708546895.17,95.8,88.14
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",26406,Ministério da Educação,26000,763940932.7,721470546.61,663777566.05,94.44,86.89
+2021,Colégio Pedro II,26201,Ministério da Educação,26000,720438734.5,688662502.95,630568554.63,95.59,87.53
+2021,Fundação Universidade Federal de São Carlos,26280,Ministério da Educação,26000,690418825.09,667583785.69,624770054.42,96.69,90.49
+2021,Universidade Federal Rural do Rio de Janeiro,26249,Ministério da Educação,26000,715841233.03,667688764.52,609048608.81,93.27,85.08
+2021,Universidade Federal do Estado do Rio de Janeiro,26269,Ministério da Educação,26000,657008228.05,635208126.35,591226885.81,96.68,89.99
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Maranhão",26408,Ministério da Educação,26000,684351095.85,640801789.83,582828706.34,93.64,85.17
+2021,Universidade Federal Rural de Pernambuco,26248,Ministério da Educação,26000,642952852.18,621381418.92,579175867.68,96.64,90.08
+2021,"Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina",26438,Ministério da Educação,26000,644330701.47,614758661.5,563735698.06,95.41,87.49
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",26435,Ministério da Educação,26000,679766696.8,617854394.85,561140578.49,90.89,82.55
+2021,"Instituto Federal de Educação, Ciência e Tecnologia da Bahia",26427,Ministério da Educação,26000,627991026.32,603820528.63,557789213.13,96.15,88.82
+2021,Universidade Federal do Rio Grande,26273,Ministério da Educação,26000,582510984.69,571055739.82,538897109.02,98.03,92.51
+2021,"Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco",26418,Ministério da Educação,26000,596429218.36,574674421.45,530389282.95,96.35,88.93
+2021,"Instituto Federal de Educação, Ciência e Tecnologia da Paraíba",26417,Ministério da Educação,26000,606292850.52,572715020.54,528336347.94,94.46,87.14
+2021,Universidade Federal do Triângulo Mineiro,26254,Ministério da Educação,26000,538916657.66,524167205.05,491736314.41,97.26,91.25
+2021,Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira,26290,Ministério da Educação,26000,1037322847.98,491519768.69,485103699.37,47.38,46.76
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Pará",26416,Ministério da Educação,26000,527472976.75,502267106.56,455193722.58,95.22,86.3
+2021,"Instituto Federal de Educação, Ciência e Tecnologia de Goiás",26429,Ministério da Educação,26000,523066578.73,493105090.22,450848183.56,94.27,86.19
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",26419,Ministério da Educação,26000,494269269.63,474952464.71,442684581.37,96.09,89.56
+2021,Centro Federal de Educação Tecnológica de Minas Gerais,26257,Ministério da Educação,26000,498808546.75,478157779.42,440266987.05,95.86,88.26
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Piauí",26431,Ministério da Educação,26000,500960230.19,485462045.09,439390205.31,96.91,87.71
+2021,"Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",26436,Ministério da Educação,26000,488517814.63,472889197.62,433355360.06,96.8,88.71
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso",26414,Ministério da Educação,26000,510451909.85,463887158.86,430526396.83,90.88,84.34
+2021,Universidade Federal de Ouro Preto,26277,Ministério da Educação,26000,466822171.79,445507826.76,415598896.94,95.43,89.03
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",26433,Ministério da Educação,26000,464914336.16,444835133.5,414906514.91,95.68,89.24
+2021,Instituto Federal do Paraná,26432,Ministério da Educação,26000,468026542.14,439069280.63,410311767.27,93.81,87.67
+2021,"Instituto Federal de Educação, Ciência e Tecnologia de Alagoas",26402,Ministério da Educação,26000,458394228.24,434139002.3,400174794.41,94.71,87.3
+2021,"Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",26409,Ministério da Educação,26000,451049951.5,425407640.33,393196069.78,94.31,87.17
+2021,"Instituto Federal de Educação, Ciência e Tecnologia Fluminense",26434,Ministério da Educação,26000,452592352.2,428215771.75,388400174.9,94.61,85.82
+2021,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,26256,Ministério da Educação,26000,430455243.17,416947932.13,384507097.93,96.86,89.33
+2021,Universidade Federal de Lavras,26263,Ministério da Educação,26000,422637019.47,405917151.44,382204548.52,96.04,90.43
+2021,"Instituto Federal de Educação, Ciência e Tecnologia Catarinense",26422,Ministério da Educação,26000,413299216.54,384084189.0,356133908.86,92.93,86.17
+2021,Fundação Universidade Federal do Tocantins,26251,Ministério da Educação,26000,399709076.89,371995336.12,347744469.73,93.07,87.0
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",26403,Ministério da Educação,26000,391742766.47,365636787.01,332613299.34,93.34,84.91
+2021,"Instituto Federal de Educação, Ciência e Tecnologia Goiano",26407,Ministério da Educação,26000,386039700.59,353358451.24,320617463.19,91.53,83.05
+2021,Fundação Universidade Federal do Acre,26275,Ministério da Educação,26000,359421723.75,341624890.82,318457455.33,95.05,88.6
+2021,Fundação Universidade Federal de São João Del-Rei,26285,Ministério da Educação,26000,355397394.25,334451663.44,312520422.96,94.11,87.94
+2021,Fundação Universidade Federal do Pampa,26266,Ministério da Educação,26000,345800246.96,330576590.59,310304545.27,95.6,89.74
+2021,"Instituto Federal de Educação, Ciência e Tecnologia Baiano",26404,Ministério da Educação,26000,353103286.83,324916388.27,299970395.31,92.02,84.95
+2021,Fundação Universidade Federal do ABC,26352,Ministério da Educação,26000,338088557.93,308391879.33,291292233.92,91.22,86.16
+2021,"Instituto Federal de Educação, Ciência e Tecnologia Farroupilha",26420,Ministério da Educação,26000,333662421.61,310936478.23,286597243.73,93.19,85.89
+2021,Universidade Federal do Recôncavo da Bahia,26351,Ministério da Educação,26000,321575842.79,301952720.32,280918364.71,93.9,87.36
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais",26411,Ministério da Educação,26000,322313534.84,301750508.86,280276919.35,93.62,86.96
+2021,Universidade Federal dos Vales do Jequitinhonha e Mucuri,26255,Ministério da Educação,26000,301754399.91,282318267.98,264705764.18,93.56,87.72
+2021,Fundação Universidade Federal de Rondônia,26268,Ministério da Educação,26000,299180484.77,282705946.09,264489049.45,94.49,88.4
+2021,Universidade Federal Rural do Semi-Árido,26264,Ministério da Educação,26000,301331811.2,282846960.78,262375457.07,93.87,87.07
+2021,"Instituto Federal de Educação, Ciência e Tecnologia de Sergipe",26423,Ministério da Educação,26000,290515616.98,283772670.66,262347202.21,97.68,90.3
+2021,Fundação Universidade Federal da Grande Dourados,26350,Ministério da Educação,26000,294498892.36,278793956.32,261354305.58,94.67,88.75
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",26412,Ministério da Educação,26000,317902013.89,280086042.48,257097977.82,88.1,80.87
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais",26410,Ministério da Educação,26000,298703571.28,274890790.63,255214170.34,92.03,85.44
+2021,Universidade Federal da Fronteira Sul,26440,Ministério da Educação,26000,296261285.25,270726871.89,254665018.39,91.38,85.96
+2021,"Instituto Federal de Educação, Ciência e Tecnologia de Brasília",26428,Ministério da Educação,26000,296063193.17,256621717.42,241553810.7,86.68,81.59
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro",26413,Ministério da Educação,26000,267459493.04,258179547.02,238704620.37,96.53,89.25
+2021,Universidade Federal Rural da Amazônia,26253,Ministério da Educação,26000,270657431.96,254031496.86,235123365.71,93.86,86.87
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Tocantins",26424,Ministério da Educação,26000,265634258.23,247102796.16,227635043.89,93.02,85.69
+2021,Universidade Federal de Alfenas,26260,Ministério da Educação,26000,256822835.58,242229172.63,225586272.76,94.32,87.84
+2021,"Instituto Federal de Educação, Ciência e Tecnologia de Rondônia",26421,Ministério da Educação,26000,287279789.03,241921871.11,223213960.19,84.21,77.7
+2021,Universidade Federal de Itajubá,26261,Ministério da Educação,26000,250964043.11,233180485.29,217516871.14,92.91,86.67
+2021,Universidade Federal de Roraima,26250,Ministério da Educação,26000,246924061.14,230298731.92,214871198.77,93.27,87.02
+2021,Fundação Universidade Federal do Vale do São Francisco,26230,Ministério da Educação,26000,234903533.88,215010316.62,202452298.09,91.53,86.19
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul",26415,Ministério da Educação,26000,228306478.56,210047583.13,195078636.48,92.0,85.45
+2021,Universidade Federal do Oeste do Pará,26441,Ministério da Educação,26000,212416941.63,198963101.43,184842480.12,93.67,87.02
+2021,Fundação Universidade Federal do Amapá,26286,Ministério da Educação,26000,235477020.92,200608660.08,184687677.28,85.19,78.43
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Sertão de Pernambuco",26430,Ministério da Educação,26000,201859686.25,190317802.34,174829586.67,94.28,86.61
+2021,Fundação Universidade Federal de Ciências da Saúde de Porto Alegre,26284,Ministério da Educação,26000,175295199.39,161212941.15,151827956.92,91.97,86.61
+2021,Universidade Federal da Integração Latino-Americana,26267,Ministério da Educação,26000,170793002.12,161124353.58,151653235.83,94.34,88.79
+2021,Universidade da Integração Internacional da Lusofonia Afro-Brasileira,26442,Ministério da Educação,26000,157673629.0,150797134.37,141445230.78,95.64,89.71
+2021,Universidade Federal do Sul e Sudeste do Pará,26448,Ministério da Educação,26000,148059506.83,135019968.83,126974045.07,91.19,85.76
+2021,"Instituto Federal de Educação, Ciência e Tecnologia de Roraima",26437,Ministério da Educação,26000,144445854.74,131784353.83,121887817.25,91.23,84.38
+2021,Fundação Joaquim Nabuco,26292,Ministério da Educação,26000,125826456.85,120888374.02,113371628.04,96.08,90.1
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Acre",26425,Ministério da Educação,26000,131615788.12,118086757.43,110307387.16,89.72,83.81
+2021,Universidade Federal do Cariri,26449,Ministério da Educação,26000,123636728.85,115995905.71,109117317.89,93.82,88.26
+2021,Universidade Federal do Sul da Bahia,26450,Ministério da Educação,26000,115042884.91,108243187.59,102298174.89,94.09,88.92
+2021,Universidade Federal do Oeste da Bahia,26447,Ministério da Educação,26000,117030963.2,107880210.36,100810086.77,92.18,86.14
+2021,Universidade Federal de Jataí,26453,Ministério da Educação,26000,102452936.25,101085129.4,94810484.07,98.66,92.54
+2021,Universidade Federal de Catalão,26452,Ministério da Educação,26000,100767102.91,96918331.64,90764079.36,96.18,90.07
+2021,"Instituto Federal de Educação, Ciência e Tecnologia do Amapá",26426,Ministério da Educação,26000,115886925.73,93340825.57,85916616.28,80.54,74.14
+2021,Universidade Federal de Rondonópolis,26454,Ministério da Educação,26000,94875576.68,86507016.28,78988301.69,91.18,83.25
+2021,Universidade Federal do Delta do Parnaíba,26455,Ministério da Educação,26000,64788054.69,61248890.92,56384758.53,94.54,87.03
+2021,Universidade Federal do Agreste de Pernambuco,26456,Ministério da Educação,26000,58607981.43,56121659.52,51654757.41,95.76,88.14
+2021,Universidade Federal do Norte do Tocantins,26457,Ministério da Educação,26000,7852762.71,5345022.16,5225435.02,68.07,66.54
+2022,Fundo Nacional de Desenvolvimento da Educação,26298,Ministério da Educação,26000,70877743779.97,59334497116.82,59260915543.98,83.71,83.61
+2022,Empresa Brasileira de Serviços Hospitalares,26443,Ministério da Educação,26000,9065407953.41,8154063788.06,7425186777.82,89.95,81.91
+2022,Universidade Federal do Rio de Janeiro,26245,Ministério da Educação,26000,4042232375.37,4000045178.9,3751022990.25,98.96,92.8
+2022,Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,26291,Ministério da Educação,26000,3519893474.79,2997395052.76,2990914437.52,85.16,84.97
+2022,Universidade Federal de Minas Gerais,26238,Ministério da Educação,26000,2527865534.11,2476347794.99,2328584168.63,97.96,92.12
+2022,Universidade Federal Fluminense,26236,Ministério da Educação,26000,2419992552.35,2306640730.56,2155761017.54,95.32,89.08
+2022,Universidade Federal da Bahia,26232,Ministério da Educação,26000,2007885471.13,1976877690.51,1858704044.85,98.46,92.57
+2022,Universidade Federal do Rio Grande do Sul,26244,Ministério da Educação,26000,2065726439.82,1979937787.25,1854826819.4,95.85,89.79
+2022,Fundação Universidade de Brasília,26271,Ministério da Educação,26000,2077128538.52,1937254986.15,1829112147.13,93.27,88.06
+2022,Universidade Federal do Paraná,26241,Ministério da Educação,26000,1939667172.17,1915313077.77,1802834478.7,98.74,92.95
+2022,Universidade Federal da Paraíba,26240,Ministério da Educação,26000,1996920415.14,1940038710.72,1792676067.06,97.15,89.77
+2022,Universidade Federal de Santa Catarina,26246,Ministério da Educação,26000,1987581797.98,1918397273.26,1779062801.25,96.52,89.51
+2022,Universidade Federal do Rio Grande do Norte,26243,Ministério da Educação,26000,1933124121.42,1886854343.76,1759408341.4,97.61,91.01
+2022,Universidade Federal de Pernambuco,26242,Ministério da Educação,26000,1914744301.96,1852272295.06,1730033783.42,96.74,90.35
+2022,Universidade Federal do Ceará,26233,Ministério da Educação,26000,1739104575.66,1710350091.81,1603431555.85,98.35,92.2
+2022,Hospital de Clínicas de Porto Alegre,26294,Ministério da Educação,26000,1755631418.56,1698309125.12,1570825623.7,96.73,89.47
+2022,Universidade Federal do Pará,26239,Ministério da Educação,26000,1631684007.91,1582377769.12,1486596236.95,96.98,91.11
+2022,Fundação Universidade Federal de Uberlândia,26274,Ministério da Educação,26000,1587202997.84,1546848716.32,1458827796.27,97.46,91.91
+2022,Universidade Federal de Santa Maria,26247,Ministério da Educação,26000,1520249261.3,1484306225.67,1399790364.83,97.64,92.08
+2022,Universidade Federal de São Paulo,26262,Ministério da Educação,26000,1530167390.56,1471860885.54,1384668146.0,96.19,90.49
+2022,Universidade Federal de Goiás,26235,Ministério da Educação,26000,1380726349.56,1352519845.44,1268289818.53,97.96,91.86
+2022,Universidade Federal do Espírito Santo,26234,Ministério da Educação,26000,1139358725.43,1103643129.03,1032686322.44,96.87,90.64
+2022,Ministério da Educação - Unidades com vínculo direto,26000,Ministério da Educação,26000,1252492958.44,1106428316.91,1025893183.75,88.34,81.91
+2022,Universidade Federal de Juiz de Fora,26237,Ministério da Educação,26000,1088798161.19,1040431580.35,984000538.79,95.56,90.37
+2022,Universidade Federal de Alagoas,26231,Ministério da Educação,26000,1079233871.34,1039193227.16,971937494.67,96.29,90.06
+2022,"Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",26439,Ministério da Educação,26000,1098691725.67,1042037598.87,967771459.65,94.84,88.08
+2022,Universidade Tecnológica Federal do Paraná,26258,Ministério da Educação,26000,1088525886.97,1027471207.42,954392150.94,94.39,87.68
+2022,Universidade Federal de Viçosa,26282,Ministério da Educação,26000,1005074404.0,964596404.59,900467571.87,95.97,89.59
+2022,Fundação Universidade do Maranhão,26272,Ministério da Educação,26000,974933775.09,953408267.37,890767098.94,97.79,91.37
+2022,Fundação Universidade Federal do Mato Grosso do Sul,26283,Ministério da Educação,26000,988152103.29,937667408.01,883169113.91,94.89,89.38
+2022,Fundação Universidade Federal do Mato Grosso,26276,Ministério da Educação,26000,920367960.79,897458076.21,827318602.26,97.51,89.89
+2022,Fundação Universidade Federal de Pelotas,26278,Ministério da Educação,26000,873528998.83,863927854.04,806537834.74,98.9,92.33
+2022,Fundação Universidade do Amazonas,26270,Ministério da Educação,26000,878265264.8,836339314.3,784463219.98,95.23,89.32
+2022,Fundação Universidade Federal de Sergipe,26281,Ministério da Educação,26000,868804000.38,836286786.13,782601941.42,96.26,90.08
+2022,Fundação Universidade Federal do Piauí,26279,Ministério da Educação,26000,874910234.58,830954299.83,777174018.13,94.98,88.83
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Ceará",26405,Ministério da Educação,26000,859071465.27,828383761.64,766662073.4,96.43,89.24
+2022,Universidade Federal de Campina Grande,26252,Ministério da Educação,26000,823965407.81,798368492.59,738441179.1,96.89,89.62
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",26406,Ministério da Educação,26000,805493684.42,766215889.17,708690353.95,95.12,87.98
+2022,Fundação Universidade Federal de São Carlos,26280,Ministério da Educação,26000,715816426.0,691329980.11,647525808.53,96.58,90.46
+2022,Universidade Federal Rural do Rio de Janeiro,26249,Ministério da Educação,26000,750173162.71,701239303.75,643968234.15,93.48,85.84
+2022,Colégio Pedro II,26201,Ministério da Educação,26000,728360031.2,697883246.09,641146395.14,95.82,88.03
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Maranhão",26408,Ministério da Educação,26000,725917514.32,679472745.61,627421763.63,93.6,86.43
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",26435,Ministério da Educação,26000,719515349.67,657416332.14,601759657.31,91.37,83.63
+2022,"Instituto Federal de Educação, Ciência e Tecnologia da Bahia",26427,Ministério da Educação,26000,672012155.42,649737074.64,601515550.56,96.69,89.51
+2022,Universidade Federal Rural de Pernambuco,26248,Ministério da Educação,26000,657710901.6,643837699.89,599625790.36,97.89,91.17
+2022,Universidade Federal do Estado do Rio de Janeiro,26269,Ministério da Educação,26000,667285985.26,651237214.39,590503614.74,97.59,88.49
+2022,"Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina",26438,Ministério da Educação,26000,667798486.35,639196551.19,589498741.07,95.72,88.27
+2022,Universidade Federal do Rio Grande,26273,Ministério da Educação,26000,606462933.28,597908039.03,564767559.89,98.59,93.12
+2022,"Instituto Federal de Educação, Ciência e Tecnologia da Paraíba",26417,Ministério da Educação,26000,636278543.05,603858298.33,557773550.72,94.9,87.66
+2022,"Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco",26418,Ministério da Educação,26000,623270214.88,603502908.05,557760992.62,96.83,89.49
+2022,Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira,26290,Ministério da Educação,26000,1098048682.06,621205658.43,532734474.13,56.57,48.52
+2022,Universidade Federal do Triângulo Mineiro,26254,Ministério da Educação,26000,554854843.78,538644728.92,506638638.08,97.08,91.31
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Pará",26416,Ministério da Educação,26000,540694936.77,524791136.17,489390126.57,97.06,90.51
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",26419,Ministério da Educação,26000,529071337.26,505275483.54,471009819.29,95.5,89.03
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso",26414,Ministério da Educação,26000,529212906.07,504821743.55,470833702.02,95.39,88.97
+2022,Centro Federal de Educação Tecnológica de Minas Gerais,26257,Ministério da Educação,26000,516125963.91,505782977.62,467919384.18,98.0,90.66
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Piauí",26431,Ministério da Educação,26000,521355985.55,505369716.43,465525209.54,96.93,89.29
+2022,"Instituto Federal de Educação, Ciência e Tecnologia de Goiás",26429,Ministério da Educação,26000,537822790.8,503394854.82,462857392.47,93.6,86.06
+2022,"Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",26436,Ministério da Educação,26000,510738859.67,495739848.17,456916875.18,97.06,89.46
+2022,Instituto Federal do Paraná,26432,Ministério da Educação,26000,502293061.76,477019251.0,446826769.02,94.97,88.96
+2022,Universidade Federal de Ouro Preto,26277,Ministério da Educação,26000,489377569.45,466692208.87,438356256.62,95.36,89.57
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",26433,Ministério da Educação,26000,483764250.3,467581890.13,432837179.52,96.65,89.47
+2022,"Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",26409,Ministério da Educação,26000,482467819.22,458034153.44,425697684.01,94.94,88.23
+2022,"Instituto Federal de Educação, Ciência e Tecnologia Fluminense",26434,Ministério da Educação,26000,470692332.71,447231688.63,407255774.84,95.02,86.52
+2022,Universidade Federal de Lavras,26263,Ministério da Educação,26000,453907516.68,432802243.69,406170268.26,95.35,89.48
+2022,"Instituto Federal de Educação, Ciência e Tecnologia de Alagoas",26402,Ministério da Educação,26000,465654387.88,424696206.33,394611736.63,91.2,84.74
+2022,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,26256,Ministério da Educação,26000,449117061.68,424249676.53,392955805.76,94.46,87.5
+2022,"Instituto Federal de Educação, Ciência e Tecnologia Catarinense",26422,Ministério da Educação,26000,429196753.26,409874244.85,382137926.88,95.5,89.04
+2022,Fundação Universidade Federal do Tocantins,26251,Ministério da Educação,26000,440970494.98,401117989.51,373018390.59,90.96,84.59
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",26403,Ministério da Educação,26000,414129649.29,393642276.35,364173742.85,95.05,87.94
+2022,Fundação Universidade Federal do Acre,26275,Ministério da Educação,26000,402686922.4,377664635.83,352593257.88,93.79,87.56
+2022,Fundação Universidade Federal do Pampa,26266,Ministério da Educação,26000,372657296.59,358741135.31,338179653.38,96.27,90.75
+2022,"Instituto Federal de Educação, Ciência e Tecnologia Goiano",26407,Ministério da Educação,26000,387744225.19,367175377.29,337088320.65,94.7,86.94
+2022,Fundação Universidade Federal de São João Del-Rei,26285,Ministério da Educação,26000,369212185.55,356405531.09,334429396.96,96.53,90.58
+2022,"Instituto Federal de Educação, Ciência e Tecnologia Baiano",26404,Ministério da Educação,26000,374777897.34,349871755.55,324847151.51,93.35,86.68
+2022,"Instituto Federal de Educação, Ciência e Tecnologia Farroupilha",26420,Ministério da Educação,26000,350052608.43,332762894.25,307387161.4,95.06,87.81
+2022,Universidade Federal do Recôncavo da Bahia,26351,Ministério da Educação,26000,347434235.22,328907560.04,306685479.94,94.67,88.27
+2022,Fundação Universidade Federal do ABC,26352,Ministério da Educação,26000,359727551.58,320536281.02,302767742.04,89.11,84.17
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais",26411,Ministério da Educação,26000,340268026.47,316786868.5,294742501.9,93.1,86.62
+2022,Universidade Federal dos Vales do Jequitinhonha e Mucuri,26255,Ministério da Educação,26000,324339698.83,306920002.92,288181765.25,94.63,88.85
+2022,Universidade Federal Rural do Semi-Árido,26264,Ministério da Educação,26000,318241970.22,305866310.5,285448742.93,96.11,89.7
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",26412,Ministério da Educação,26000,323139718.71,304149582.68,281847880.58,94.12,87.22
+2022,Fundação Universidade Federal de Rondônia,26268,Ministério da Educação,26000,332839870.04,299776363.16,281135849.01,90.07,84.47
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais",26410,Ministério da Educação,26000,322472582.89,298465197.99,278399929.58,92.56,86.33
+2022,Universidade Federal da Fronteira Sul,26440,Ministério da Educação,26000,316774916.32,288144734.49,271437842.28,90.96,85.69
+2022,"Instituto Federal de Educação, Ciência e Tecnologia de Sergipe",26423,Ministério da Educação,26000,306031373.82,292105610.63,270552763.68,95.45,88.41
+2022,Fundação Universidade Federal da Grande Dourados,26350,Ministério da Educação,26000,312835937.17,287628715.25,269677036.53,91.94,86.2
+2022,"Instituto Federal de Educação, Ciência e Tecnologia de Brasília",26428,Ministério da Educação,26000,294355597.52,262535387.66,248611705.16,89.19,84.46
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro",26413,Ministério da Educação,26000,277670012.92,265001332.49,245292241.79,95.44,88.34
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Tocantins",26424,Ministério da Educação,26000,275818753.58,264472458.75,243848429.48,95.89,88.41
+2022,Universidade Federal Rural da Amazônia,26253,Ministério da Educação,26000,276560927.46,255848474.11,239353547.07,92.51,86.55
+2022,Universidade Federal de Alfenas,26260,Ministério da Educação,26000,278279598.13,256917733.85,238727419.4,92.32,85.79
+2022,Universidade Federal de Roraima,26250,Ministério da Educação,26000,273803600.93,248010112.08,232740940.18,90.58,85.0
+2022,Fundação Universidade Federal do Vale do São Francisco,26230,Ministério da Educação,26000,275383269.63,244697842.35,231175690.76,88.86,83.95
+2022,Universidade Federal de Itajubá,26261,Ministério da Educação,26000,267401584.21,250617465.56,230909119.8,93.72,86.35
+2022,"Instituto Federal de Educação, Ciência e Tecnologia de Rondônia",26421,Ministério da Educação,26000,273092741.98,239954078.79,219774590.77,87.87,80.48
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul",26415,Ministério da Educação,26000,251651267.96,226491768.46,211696294.23,90.0,84.12
+2022,Fundação Universidade Federal do Amapá,26286,Ministério da Educação,26000,251652513.12,220410361.54,206651032.03,87.59,82.12
+2022,Universidade Federal do Oeste do Pará,26441,Ministério da Educação,26000,219388541.09,207588093.04,196501443.61,94.62,89.57
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Sertão de Pernambuco",26430,Ministério da Educação,26000,217035353.82,206144656.17,189852830.29,94.98,87.48
+2022,Fundação Universidade Federal de Ciências da Saúde de Porto Alegre,26284,Ministério da Educação,26000,189644934.26,176467380.79,166084880.19,93.05,87.58
+2022,Universidade Federal da Integração Latino-Americana,26267,Ministério da Educação,26000,184475631.4,171840215.5,162205530.96,93.15,87.93
+2022,Universidade da Integração Internacional da Lusofonia Afro-Brasileira,26442,Ministério da Educação,26000,178636223.54,163675643.34,154279879.18,91.63,86.37
+2022,Universidade Federal do Sul e Sudeste do Pará,26448,Ministério da Educação,26000,156421106.73,144568646.16,134744225.95,92.42,86.14
+2022,"Instituto Federal de Educação, Ciência e Tecnologia de Roraima",26437,Ministério da Educação,26000,155977715.02,143864029.29,134342434.39,92.23,86.13
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Acre",26425,Ministério da Educação,26000,143002147.55,130224359.98,120673200.86,91.06,84.39
+2022,Fundação Joaquim Nabuco,26292,Ministério da Educação,26000,132537851.44,128699312.73,120599426.98,97.1,90.99
+2022,Universidade Federal do Cariri,26449,Ministério da Educação,26000,139699018.12,128323919.94,120490956.02,91.86,86.25
+2022,Universidade Federal do Sul da Bahia,26450,Ministério da Educação,26000,126097645.32,123209364.33,116921290.84,97.71,92.72
+2022,Universidade Federal do Oeste da Bahia,26447,Ministério da Educação,26000,124889243.66,116267214.63,108744690.57,93.1,87.07
+2022,Universidade Federal de Jataí,26453,Ministério da Educação,26000,118803359.37,112005986.23,105381991.96,94.28,88.7
+2022,Universidade Federal de Catalão,26452,Ministério da Educação,26000,117962581.58,107315263.49,100361051.54,90.97,85.08
+2022,"Instituto Federal de Educação, Ciência e Tecnologia do Amapá",26426,Ministério da Educação,26000,115213436.24,104266925.1,97336540.45,90.5,84.48
+2022,Universidade Federal de Rondonópolis,26454,Ministério da Educação,26000,110540744.24,95971291.32,88796053.21,86.82,80.33
+2022,Universidade Federal do Delta do Parnaíba,26455,Ministério da Educação,26000,79896315.98,73771133.69,68513147.17,92.33,85.75
+2022,Universidade Federal do Agreste de Pernambuco,26456,Ministério da Educação,26000,63009502.46,60326875.47,55909666.27,95.74,88.73
+2022,Universidade Federal do Norte do Tocantins,26457,Ministério da Educação,26000,5678499.46,4611147.48,4215487.83,81.2,74.24
+2023,Fundo Nacional de Desenvolvimento da Educação,26298,Ministério da Educação,26000,85117420857.74,72935583590.53,72917499711.97,85.69,85.67
+2023,Empresa Brasileira de Serviços Hospitalares,26443,Ministério da Educação,26000,10416077643.66,9535227966.02,8837850471.77,91.54,84.85
+2023,Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,26291,Ministério da Educação,26000,5265239235.43,4729488875.63,4721140325.36,89.82,89.67
+2023,Universidade Federal do Rio de Janeiro,26245,Ministério da Educação,26000,4403037484.33,4324107853.24,3952657059.33,98.21,89.77
+2023,Universidade Federal de Minas Gerais,26238,Ministério da Educação,26000,2779986882.31,2701001911.59,2448998943.35,97.16,88.09
+2023,Universidade Federal Fluminense,26236,Ministério da Educação,26000,2608521861.42,2533286028.88,2350971994.82,97.12,90.13
+2023,Universidade Federal da Bahia,26232,Ministério da Educação,26000,2263725471.55,2205693774.3,2022478340.83,97.44,89.34
+2023,Fundação Universidade de Brasília,26271,Ministério da Educação,26000,2348142791.3,2177567183.75,1987787833.43,92.74,84.65
+2023,Universidade Federal do Rio Grande do Sul,26244,Ministério da Educação,26000,2199798294.47,2169915488.0,1968142638.6,98.64,89.47
+2023,Universidade Federal do Paraná,26241,Ministério da Educação,26000,2182225912.25,2115309982.48,1930117851.93,96.93,88.45
+2023,Universidade Federal do Rio Grande do Norte,26243,Ministério da Educação,26000,2154052044.8,2104567781.83,1902788187.13,97.7,88.34
+2023,Universidade Federal de Santa Catarina,26246,Ministério da Educação,26000,2190543478.17,2096052240.29,1891091276.52,95.69,86.33
+2023,Universidade Federal da Paraíba,26240,Ministério da Educação,26000,2159551467.48,2088916181.99,1872130959.87,96.73,86.69
+2023,Universidade Federal de Pernambuco,26242,Ministério da Educação,26000,2128331619.38,2032057855.22,1844361080.32,95.48,86.66
+2023,Hospital de Clínicas de Porto Alegre,26294,Ministério da Educação,26000,1989347407.86,1918014659.05,1732829797.08,96.41,87.11
+2023,Universidade Federal do Ceará,26233,Ministério da Educação,26000,1938390814.2,1852171809.96,1681618214.94,95.55,86.75
+2023,Universidade Federal do Pará,26239,Ministério da Educação,26000,1816343675.52,1760883497.97,1633903476.28,96.95,89.96
+2023,Fundação Universidade Federal de Uberlândia,26274,Ministério da Educação,26000,1700854634.07,1660632276.82,1520460002.72,97.64,89.39
+2023,Universidade Federal de Santa Maria,26247,Ministério da Educação,26000,1659239478.23,1621451200.38,1501552346.33,97.72,90.5
+2023,Universidade Federal de São Paulo,26262,Ministério da Educação,26000,1660396394.16,1586715873.4,1442535587.63,95.56,86.88
+2023,Universidade Federal de Goiás,26235,Ministério da Educação,26000,1564244641.69,1486465601.28,1375064836.02,95.03,87.91
+2023,Universidade Federal do Espírito Santo,26234,Ministério da Educação,26000,1246316197.17,1216673353.9,1124524775.8,97.62,90.23
+2023,Universidade Federal de Juiz de Fora,26237,Ministério da Educação,26000,1239591462.6,1165327139.69,1071211493.03,94.01,86.42
+2023,"Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",26439,Ministério da Educação,26000,1230237542.09,1144156807.96,1049616661.01,93.0,85.32
+2023,Ministério da Educação - Unidades com vínculo direto,26000,Ministério da Educação,26000,1477941670.83,1083373578.31,1035174418.3,73.3,70.04
+2023,Universidade Tecnológica Federal do Paraná,26258,Ministério da Educação,26000,1202037202.37,1121338046.48,1028323810.07,93.29,85.55
+2023,Universidade Federal de Alagoas,26231,Ministério da Educação,26000,1155068741.16,1123324052.66,1027272788.75,97.25,88.94
+2023,Fundação Universidade do Maranhão,26272,Ministério da Educação,26000,1102923419.12,1068906490.28,991323621.64,96.92,89.88
+2023,Fundação Universidade Federal do Mato Grosso do Sul,26283,Ministério da Educação,26000,1102445381.75,1058461591.71,984514258.18,96.01,89.3
+2023,Universidade Federal de Viçosa,26282,Ministério da Educação,26000,1099828540.65,1047127671.18,968254279.39,95.21,88.04
+2023,Fundação Universidade Federal do Mato Grosso,26276,Ministério da Educação,26000,1037980786.39,997442037.83,901079245.57,96.09,86.81
+2023,Fundação Universidade Federal de Sergipe,26281,Ministério da Educação,26000,978222332.93,936865936.53,866305246.32,95.77,88.56
+2023,Fundação Universidade do Amazonas,26270,Ministério da Educação,26000,981238495.62,942966711.96,858848380.25,96.1,87.53
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Ceará",26405,Ministério da Educação,26000,1024389243.08,946454046.04,850791772.72,92.39,83.05
+2023,Fundação Universidade Federal de Pelotas,26278,Ministério da Educação,26000,967922597.15,946741259.4,850281066.93,97.81,87.85
+2023,Fundação Universidade Federal do Piauí,26279,Ministério da Educação,26000,955296449.28,911204516.16,831722344.26,95.38,87.06
+2023,Universidade Federal de Campina Grande,26252,Ministério da Educação,26000,910868122.35,887552962.01,790558547.69,97.44,86.79
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",26406,Ministério da Educação,26000,928590074.19,876126734.87,789458859.03,94.35,85.02
+2023,Universidade Federal do Estado do Rio de Janeiro,26269,Ministério da Educação,26000,860396174.84,794978490.92,746462292.66,92.4,86.76
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Maranhão",26408,Ministério da Educação,26000,906223957.19,816236681.35,729411488.0,90.07,80.49
+2023,Universidade Federal Rural do Rio de Janeiro,26249,Ministério da Educação,26000,835093541.04,784311601.69,719814390.56,93.92,86.2
+2023,Colégio Pedro II,26201,Ministério da Educação,26000,803678858.58,770137151.41,704838745.69,95.83,87.7
+2023,Fundação Universidade Federal de São Carlos,26280,Ministério da Educação,26000,791849622.86,763007681.78,694507706.69,96.36,87.71
+2023,"Instituto Federal de Educação, Ciência e Tecnologia da Bahia",26427,Ministério da Educação,26000,777640449.2,728227348.08,664371047.33,93.65,85.43
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",26435,Ministério da Educação,26000,825243301.68,743796587.3,662730901.62,90.13,80.31
+2023,Universidade Federal Rural de Pernambuco,26248,Ministério da Educação,26000,762455916.88,723987833.09,651361558.65,94.95,85.43
+2023,"Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina",26438,Ministério da Educação,26000,738202761.17,698647143.59,619927937.87,94.64,83.98
+2023,Universidade Federal do Rio Grande,26273,Ministério da Educação,26000,677015499.86,661640328.95,605147036.22,97.73,89.38
+2023,"Instituto Federal de Educação, Ciência e Tecnologia da Paraíba",26417,Ministério da Educação,26000,709914518.26,678522630.24,604048503.88,95.58,85.09
+2023,"Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco",26418,Ministério da Educação,26000,699532862.21,661707966.03,603351644.45,94.59,86.25
+2023,Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira,26290,Ministério da Educação,26000,1092755000.19,574951886.88,554214957.08,52.61,50.72
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Pará",26416,Ministério da Educação,26000,632960481.38,605506960.35,553933312.55,95.66,87.51
+2023,Universidade Federal do Triângulo Mineiro,26254,Ministério da Educação,26000,610143453.87,590608400.28,535980428.16,96.8,87.84
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso",26414,Ministério da Educação,26000,632790479.91,592341018.05,523695865.1,93.61,82.76
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Piauí",26431,Ministério da Educação,26000,613884894.55,583746148.09,523326960.04,95.09,85.25
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",26419,Ministério da Educação,26000,580584499.47,556350832.59,510124405.84,95.83,87.86
+2023,Centro Federal de Educação Tecnológica de Minas Gerais,26257,Ministério da Educação,26000,561629752.67,551958458.07,504084763.96,98.28,89.75
+2023,"Instituto Federal de Educação, Ciência e Tecnologia de Goiás",26429,Ministério da Educação,26000,592429021.54,566438424.26,497504783.79,95.61,83.98
+2023,"Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",26436,Ministério da Educação,26000,571241616.76,550670771.32,489782412.91,96.4,85.74
+2023,Instituto Federal do Paraná,26432,Ministério da Educação,26000,573292399.4,543444163.48,489760291.28,94.79,85.43
+2023,Universidade Federal de Ouro Preto,26277,Ministério da Educação,26000,535098247.75,516728902.23,471714679.41,96.57,88.15
+2023,"Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",26409,Ministério da Educação,26000,542353726.29,502782045.32,460710244.9,92.7,84.95
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",26433,Ministério da Educação,26000,537998085.97,515177895.51,458174982.02,95.76,85.16
+2023,"Instituto Federal de Educação, Ciência e Tecnologia Fluminense",26434,Ministério da Educação,26000,540797456.52,507150791.73,457676484.56,93.78,84.63
+2023,Universidade Federal de Lavras,26263,Ministério da Educação,26000,482077373.76,456782942.69,416226117.45,94.75,86.34
+2023,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,26256,Ministério da Educação,26000,487376706.95,456421122.97,409740232.88,93.65,84.07
+2023,"Instituto Federal de Educação, Ciência e Tecnologia Catarinense",26422,Ministério da Educação,26000,478608695.01,455408235.76,409456431.74,95.15,85.55
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",26403,Ministério da Educação,26000,498036576.01,455853698.1,409345394.63,91.53,82.19
+2023,"Instituto Federal de Educação, Ciência e Tecnologia de Alagoas",26402,Ministério da Educação,26000,473067882.86,441828799.68,401912102.52,93.4,84.96
+2023,Fundação Universidade Federal do Acre,26275,Ministério da Educação,26000,442792676.68,426565594.82,395320901.3,96.34,89.28
+2023,Fundação Universidade Federal do Pampa,26266,Ministério da Educação,26000,422325359.77,407421668.77,380611089.67,96.47,90.12
+2023,Fundação Universidade Federal de São João Del-Rei,26285,Ministério da Educação,26000,414424922.48,405901775.13,370055406.6,97.94,89.29
+2023,"Instituto Federal de Educação, Ciência e Tecnologia Baiano",26404,Ministério da Educação,26000,434254594.68,400120471.68,367783326.19,92.14,84.69
+2023,Fundação Universidade Federal do Tocantins,26251,Ministério da Educação,26000,437318851.63,395370140.46,365935083.33,90.41,83.68
+2023,"Instituto Federal de Educação, Ciência e Tecnologia Goiano",26407,Ministério da Educação,26000,426109664.17,399434980.58,365789143.78,93.74,85.84
+2023,Universidade Federal do Recôncavo da Bahia,26351,Ministério da Educação,26000,422266975.26,401738845.32,360880736.78,95.14,85.46
+2023,Fundação Universidade Federal do ABC,26352,Ministério da Educação,26000,421189611.72,387301873.32,357326278.12,91.95,84.84
+2023,"Instituto Federal de Educação, Ciência e Tecnologia Farroupilha",26420,Ministério da Educação,26000,396328821.13,378020679.65,344524770.17,95.38,86.93
+2023,Universidade Federal Rural do Semi-Árido,26264,Ministério da Educação,26000,365377535.79,361977605.67,328225215.72,99.07,89.83
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais",26411,Ministério da Educação,26000,379609504.1,351195051.86,322370434.48,92.51,84.92
+2023,Universidade Federal dos Vales do Jequitinhonha e Mucuri,26255,Ministério da Educação,26000,361447800.19,340372982.97,308407556.43,94.17,85.33
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",26412,Ministério da Educação,26000,381040120.79,335302900.9,307749102.7,88.0,80.77
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais",26410,Ministério da Educação,26000,359762849.47,330468145.94,302239824.93,91.86,84.01
+2023,Universidade Federal da Fronteira Sul,26440,Ministério da Educação,26000,351852107.56,329896306.38,298199943.28,93.76,84.75
+2023,Fundação Universidade Federal de Rondônia,26268,Ministério da Educação,26000,365445050.39,328349470.98,298140889.82,89.85,81.58
+2023,"Instituto Federal de Educação, Ciência e Tecnologia de Sergipe",26423,Ministério da Educação,26000,343389416.74,325323057.69,292428599.68,94.74,85.16
+2023,Fundação Universidade Federal da Grande Dourados,26350,Ministério da Educação,26000,355941713.06,320658241.58,292310583.38,90.09,82.12
+2023,"Instituto Federal de Educação, Ciência e Tecnologia de Brasília",26428,Ministério da Educação,26000,337922324.75,301356652.31,280933378.07,89.18,83.14
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Tocantins",26424,Ministério da Educação,26000,313840073.39,298359379.34,269636537.13,95.07,85.92
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro",26413,Ministério da Educação,26000,314413242.31,293018391.06,266925685.91,93.2,84.9
+2023,Universidade Federal Rural da Amazônia,26253,Ministério da Educação,26000,301038722.7,287186217.04,262473381.83,95.4,87.19
+2023,Universidade Federal de Alfenas,26260,Ministério da Educação,26000,305603633.53,291365026.75,261543231.64,95.34,85.58
+2023,Universidade Federal de Roraima,26250,Ministério da Educação,26000,298592985.57,275093317.18,254539020.4,92.13,85.25
+2023,"Instituto Federal de Educação, Ciência e Tecnologia de Rondônia",26421,Ministério da Educação,26000,325135634.61,297781284.36,253027467.6,91.59,77.82
+2023,Fundação Universidade Federal do Vale do São Francisco,26230,Ministério da Educação,26000,299910863.04,278353555.8,251661978.47,92.81,83.91
+2023,Universidade Federal de Itajubá,26261,Ministério da Educação,26000,287220736.18,270562528.98,245331829.04,94.2,85.42
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul",26415,Ministério da Educação,26000,280657132.65,261515039.31,236180014.89,93.18,84.15
+2023,Fundação Universidade Federal do Amapá,26286,Ministério da Educação,26000,308518943.41,261751099.29,229140209.57,84.84,74.27
+2023,Universidade Federal do Oeste do Pará,26441,Ministério da Educação,26000,252907003.08,238163149.57,217985138.05,94.17,86.19
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Sertão de Pernambuco",26430,Ministério da Educação,26000,250858769.65,233438645.18,212091187.57,93.06,84.55
+2023,Fundação Universidade Federal de Ciências da Saúde de Porto Alegre,26284,Ministério da Educação,26000,208436084.2,194556182.79,178697816.23,93.34,85.73
+2023,Universidade Federal da Integração Latino-Americana,26267,Ministério da Educação,26000,204747972.4,187801280.03,172425214.76,91.72,84.21
+2023,Universidade da Integração Internacional da Lusofonia Afro-Brasileira,26442,Ministério da Educação,26000,189400249.07,177132693.75,160739413.75,93.52,84.87
+2023,Universidade Federal do Sul e Sudeste do Pará,26448,Ministério da Educação,26000,172872844.3,163044066.36,148664893.37,94.31,86.0
+2023,"Instituto Federal de Educação, Ciência e Tecnologia de Roraima",26437,Ministério da Educação,26000,178993162.38,162175960.76,148374408.93,90.6,82.89
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Acre",26425,Ministério da Educação,26000,166302376.27,150459401.72,136290336.1,90.47,81.95
+2023,Universidade Federal do Cariri,26449,Ministério da Educação,26000,157995522.17,148653025.03,135768263.16,94.09,85.93
+2023,Universidade Federal do Sul da Bahia,26450,Ministério da Educação,26000,146780995.01,134089208.38,121161927.47,91.35,82.55
+2023,Fundação Joaquim Nabuco,26292,Ministério da Educação,26000,137850771.62,132505499.34,121111215.44,96.12,87.86
+2023,Universidade Federal do Oeste da Bahia,26447,Ministério da Educação,26000,144617121.3,134165164.09,118505719.91,92.77,81.94
+2023,Universidade Federal de Jataí,26453,Ministério da Educação,26000,128670399.15,126507074.55,117932715.54,98.32,91.65
+2023,"Instituto Federal de Educação, Ciência e Tecnologia do Amapá",26426,Ministério da Educação,26000,137441820.12,119448971.58,109355648.17,86.91,79.57
+2023,Universidade Federal de Catalão,26452,Ministério da Educação,26000,126912565.25,118694666.62,107818368.96,93.52,84.95
+2023,Universidade Federal de Rondonópolis,26454,Ministério da Educação,26000,113712444.34,108462115.04,97376010.49,95.38,85.63
+2023,Universidade Federal do Delta do Parnaíba,26455,Ministério da Educação,26000,93167730.49,87935681.49,78268074.5,94.38,84.01
+2023,Universidade Federal do Agreste de Pernambuco,26456,Ministério da Educação,26000,67918974.46,64782013.57,57375435.13,95.38,84.48
+2023,Universidade Federal do Norte do Tocantins,26457,Ministério da Educação,26000,42735588.36,41318233.42,30661650.0,96.68,71.75
+2024,Fundo Nacional de Desenvolvimento da Educação,26298,Ministério da Educação,26000,94588918368.01,77786388029.39,77721908268.51,82.24,82.17
+2024,Empresa Brasileira de Serviços Hospitalares,26443,Ministério da Educação,26000,12702804938.68,10281632555.28,10147460198.79,80.94,79.88
+2024,Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,26291,Ministério da Educação,26000,4934135644.19,4204316101.74,4194625210.57,85.21,85.01
+2024,Universidade Federal do Rio de Janeiro,26245,Ministério da Educação,26000,4646511413.56,4513170441.85,4134112117.08,97.13,88.97
+2024,Universidade Federal de Minas Gerais,26238,Ministério da Educação,26000,2987603078.36,2870060902.49,2618667501.99,96.07,87.65
+2024,Universidade Federal Fluminense,26236,Ministério da Educação,26000,2757454333.67,2713081634.16,2501800721.66,98.39,90.73
+2024,Universidade Federal do Rio Grande do Sul,26244,Ministério da Educação,26000,2469873599.73,2434683160.96,2218343803.82,98.58,89.82
+2024,Universidade Federal da Bahia,26232,Ministério da Educação,26000,2347845955.23,2296782766.32,2137137051.59,97.83,91.03
+2024,Fundação Universidade de Brasília,26271,Ministério da Educação,26000,2454432640.17,2248641844.75,2062681026.5,91.62,84.04
+2024,Universidade Federal de Santa Catarina,26246,Ministério da Educação,26000,2310474694.63,2253891778.85,2036653744.95,97.55,88.15
+2024,Universidade Federal da Paraíba,26240,Ministério da Educação,26000,2290486677.32,2216550406.67,1992685879.43,96.77,87.0
+2024,Universidade Federal do Paraná,26241,Ministério da Educação,26000,2237797399.05,2175401751.23,1992248317.64,97.21,89.03
+2024,Universidade Federal de Pernambuco,26242,Ministério da Educação,26000,2324025559.3,2207923704.29,1966177074.11,95.0,84.6
+2024,Universidade Federal do Rio Grande do Norte,26243,Ministério da Educação,26000,2198436171.1,2126844274.23,1942294882.24,96.74,88.35
+2024,Hospital de Clínicas de Porto Alegre,26294,Ministério da Educação,26000,2178483043.38,2100196498.23,1880816024.9,96.41,86.34
+2024,Universidade Federal do Ceará,26233,Ministério da Educação,26000,1970450564.34,1936073769.45,1769534048.32,98.26,89.8
+2024,Universidade Federal do Pará,26239,Ministério da Educação,26000,1894505868.32,1859000290.59,1701785580.15,98.13,89.83
+2024,Universidade Federal de Santa Maria,26247,Ministério da Educação,26000,1772348594.48,1735186114.27,1578811514.27,97.9,89.08
+2024,Fundação Universidade Federal de Uberlândia,26274,Ministério da Educação,26000,1725284515.1,1708364831.54,1560821073.07,99.02,90.47
+2024,Universidade Federal de São Paulo,26262,Ministério da Educação,26000,1704892149.75,1632073473.34,1486695311.68,95.73,87.2
+2024,Universidade Federal de Goiás,26235,Ministério da Educação,26000,1656980420.42,1583383446.67,1474769261.66,95.56,89.0
+2024,Ministério da Educação - Unidades com vínculo direto,26000,Ministério da Educação,26000,1695744780.03,1298490721.61,1206900881.63,76.57,71.17
+2024,Universidade Federal do Espírito Santo,26234,Ministério da Educação,26000,1311910131.31,1263133746.6,1161350865.63,96.28,88.52
+2024,"Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",26439,Ministério da Educação,26000,1376643378.59,1271114018.8,1160626706.07,92.33,84.31
+2024,Universidade Federal de Juiz de Fora,26237,Ministério da Educação,26000,1319163766.67,1213109076.68,1119306081.53,91.96,84.85
+2024,Universidade Tecnológica Federal do Paraná,26258,Ministério da Educação,26000,1278451960.99,1194136736.59,1096178101.02,93.4,85.74
+2024,Universidade Federal de Alagoas,26231,Ministério da Educação,26000,1237324301.73,1185115616.22,1073287511.74,95.78,86.74
+2024,Fundação Universidade do Maranhão,26272,Ministério da Educação,26000,1197764354.3,1144700496.62,1066063072.58,95.57,89.0
+2024,Fundação Universidade Federal do Mato Grosso do Sul,26283,Ministério da Educação,26000,1193801229.72,1142682264.69,1062115003.03,95.72,88.97
+2024,Universidade Federal de Viçosa,26282,Ministério da Educação,26000,1135482239.31,1100656944.73,1007977467.74,96.93,88.77
+2024,Fundação Universidade Federal do Mato Grosso,26276,Ministério da Educação,26000,1127346662.95,1038557366.95,969085309.85,92.12,85.96
+2024,Fundação Universidade do Amazonas,26270,Ministério da Educação,26000,1056685549.57,1019894876.28,938024306.19,96.52,88.77
+2024,Fundação Universidade Federal de Sergipe,26281,Ministério da Educação,26000,1034728957.91,1009201293.44,936392143.83,97.53,90.5
+2024,Fundação Universidade Federal de Pelotas,26278,Ministério da Educação,26000,1016994138.23,1004470943.99,912585909.73,98.77,89.73
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Ceará",26405,Ministério da Educação,26000,1065689175.81,1014976572.83,906734773.15,95.24,85.08
+2024,Fundação Universidade Federal do Piauí,26279,Ministério da Educação,26000,1010630894.6,971532197.88,883681810.02,96.13,87.44
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",26406,Ministério da Educação,26000,1018141705.06,937484697.68,843383196.98,92.08,82.84
+2024,Universidade Federal de Campina Grande,26252,Ministério da Educação,26000,942300049.35,925635643.39,829877004.88,98.23,88.07
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Maranhão",26408,Ministério da Educação,26000,978243302.43,911226767.21,811826810.7,93.15,82.99
+2024,Universidade Federal Rural do Rio de Janeiro,26249,Ministério da Educação,26000,873847798.62,823769179.04,760249304.99,94.27,87.0
+2024,Colégio Pedro II,26201,Ministério da Educação,26000,861593281.52,825549618.55,757038434.3,95.82,87.86
+2024,Fundação Universidade Federal de São Carlos,26280,Ministério da Educação,26000,831166939.38,822665479.68,744933114.32,98.98,89.62
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",26435,Ministério da Educação,26000,913718280.02,811421442.06,725161039.21,88.8,79.36
+2024,"Instituto Federal de Educação, Ciência e Tecnologia da Bahia",26427,Ministério da Educação,26000,823530894.3,794191768.86,719731957.17,96.44,87.4
+2024,Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira,26290,Ministério da Educação,26000,1007973624.59,728178953.26,709199533.27,72.24,70.36
+2024,Universidade Federal Rural de Pernambuco,26248,Ministério da Educação,26000,784086352.51,760032491.62,687934784.02,96.93,87.74
+2024,"Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina",26438,Ministério da Educação,26000,790425231.01,755070863.72,672632385.16,95.53,85.1
+2024,"Instituto Federal de Educação, Ciência e Tecnologia da Paraíba",26417,Ministério da Educação,26000,771923908.31,727999560.46,651167557.1,94.31,84.36
+2024,Universidade Federal do Rio Grande,26273,Ministério da Educação,26000,709724876.86,697566825.55,641990641.39,98.29,90.46
+2024,"Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco",26418,Ministério da Educação,26000,723905135.89,693777132.27,635219350.88,95.84,87.75
+2024,Universidade Federal do Estado do Rio de Janeiro,26269,Ministério da Educação,26000,791859314.16,668127705.02,607198728.92,84.37,76.68
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Pará",26416,Ministério da Educação,26000,688485209.37,641570293.58,589326732.89,93.19,85.6
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",26419,Ministério da Educação,26000,686093733.34,634838648.74,578199344.2,92.53,84.27
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Piauí",26431,Ministério da Educação,26000,672421964.59,638358507.89,573475937.92,94.93,85.29
+2024,Universidade Federal do Triângulo Mineiro,26254,Ministério da Educação,26000,632429502.78,612543268.8,559599912.59,96.86,88.48
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso",26414,Ministério da Educação,26000,672636804.01,612572181.23,553634586.06,91.07,82.31
+2024,"Instituto Federal de Educação, Ciência e Tecnologia de Goiás",26429,Ministério da Educação,26000,644231103.57,606365470.5,550271229.69,94.12,85.42
+2024,Instituto Federal do Paraná,26432,Ministério da Educação,26000,644046497.22,602527229.18,547570550.22,93.55,85.02
+2024,"Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",26436,Ministério da Educação,26000,630721189.76,600751060.75,523188294.14,95.25,82.95
+2024,Centro Federal de Educação Tecnológica de Minas Gerais,26257,Ministério da Educação,26000,583958058.2,568798340.25,512953527.01,97.4,87.84
+2024,Universidade Federal de Ouro Preto,26277,Ministério da Educação,26000,563620371.78,555529621.05,510695458.86,98.56,90.61
+2024,"Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais",26409,Ministério da Educação,26000,564849569.16,530299303.5,487854758.29,93.88,86.37
+2024,"Instituto Federal de Educação, Ciência e Tecnologia Fluminense",26434,Ministério da Educação,26000,556881153.02,540032103.71,487827659.86,96.97,87.6
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",26433,Ministério da Educação,26000,579132131.5,542182590.58,486180355.84,93.62,83.95
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",26403,Ministério da Educação,26000,542275621.05,487487475.53,443865882.64,89.9,81.85
+2024,Universidade Federal de Lavras,26263,Ministério da Educação,26000,504741686.77,483996878.43,443288055.09,95.89,87.82
+2024,"Instituto Federal de Educação, Ciência e Tecnologia de Alagoas",26402,Ministério da Educação,26000,519348577.26,481900955.63,441117903.45,92.79,84.94
+2024,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,26256,Ministério da Educação,26000,510243213.79,490381789.95,440639987.78,96.11,86.36
+2024,"Instituto Federal de Educação, Ciência e Tecnologia Catarinense",26422,Ministério da Educação,26000,512719792.37,479293904.49,435508843.9,93.48,84.94
+2024,Fundação Universidade Federal do Acre,26275,Ministério da Educação,26000,462032073.32,443142938.45,406618422.33,95.91,88.01
+2024,Fundação Universidade Federal de São João Del-Rei,26285,Ministério da Educação,26000,436525300.2,426715881.48,398713488.17,97.75,91.34
+2024,"Instituto Federal de Educação, Ciência e Tecnologia Goiano",26407,Ministério da Educação,26000,465042881.99,438325170.7,395961653.07,94.25,85.15
+2024,Fundação Universidade Federal do Pampa,26266,Ministério da Educação,26000,445968210.77,433141458.24,394245715.55,97.12,88.4
+2024,"Instituto Federal de Educação, Ciência e Tecnologia Baiano",26404,Ministério da Educação,26000,473904408.28,425389087.69,391819061.7,89.76,82.68
+2024,Universidade Federal do Recôncavo da Bahia,26351,Ministério da Educação,26000,441771782.94,424531675.44,387137757.29,96.1,87.63
+2024,"Instituto Federal de Educação, Ciência e Tecnologia Farroupilha",26420,Ministério da Educação,26000,429538242.31,401467084.59,370587232.28,93.46,86.28
+2024,Fundação Universidade Federal do ABC,26352,Ministério da Educação,26000,414767785.11,392486619.28,368065559.93,94.63,88.74
+2024,Universidade Federal Rural do Semi-Árido,26264,Ministério da Educação,26000,402442468.07,394738688.88,361788872.23,98.09,89.9
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais",26411,Ministério da Educação,26000,395949299.97,372911103.77,339311149.98,94.18,85.7
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",26412,Ministério da Educação,26000,424311566.3,359250519.25,331988848.42,84.67,78.24
+2024,Fundação Universidade Federal do Tocantins,26251,Ministério da Educação,26000,394204960.78,361668487.2,330455638.34,91.75,83.83
+2024,Universidade Federal dos Vales do Jequitinhonha e Mucuri,26255,Ministério da Educação,26000,378651531.26,362893535.12,329686347.99,95.84,87.07
+2024,Fundação Universidade Federal de Rondônia,26268,Ministério da Educação,26000,386840948.24,360969726.78,328061121.03,93.31,84.81
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais",26410,Ministério da Educação,26000,396587903.63,354051627.02,327324457.46,89.27,82.54
+2024,Universidade Federal da Fronteira Sul,26440,Ministério da Educação,26000,380063702.14,355834816.57,325172139.39,93.63,85.56
+2024,"Instituto Federal de Educação, Ciência e Tecnologia de Sergipe",26423,Ministério da Educação,26000,359321828.95,345357522.83,311043587.6,96.11,86.56
+2024,Fundação Universidade Federal da Grande Dourados,26350,Ministério da Educação,26000,375440887.38,342098873.67,311023098.42,91.12,82.84
+2024,"Instituto Federal de Educação, Ciência e Tecnologia de Brasília",26428,Ministério da Educação,26000,351767302.82,320546604.16,304262039.83,91.12,86.5
+2024,Fundação Universidade Federal do Vale do São Francisco,26230,Ministério da Educação,26000,348213094.54,330090552.37,302923817.35,94.8,86.99
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Tocantins",26424,Ministério da Educação,26000,347978922.68,322836888.74,295391751.14,92.77,84.89
+2024,"Instituto Federal de Educação, Ciência e Tecnologia de Rondônia",26421,Ministério da Educação,26000,367662602.82,320820094.67,291971330.89,87.26,79.41
+2024,Universidade Federal de Roraima,26250,Ministério da Educação,26000,340534519.68,309493509.35,284425448.6,90.88,83.52
+2024,Universidade Federal Rural da Amazônia,26253,Ministério da Educação,26000,331739571.54,310352801.56,284280784.37,93.55,85.69
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro",26413,Ministério da Educação,26000,323461705.05,305559655.42,279334676.89,94.47,86.36
+2024,Universidade Federal de Alfenas,26260,Ministério da Educação,26000,318189935.78,305997522.79,276986100.58,96.17,87.05
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul",26415,Ministério da Educação,26000,300797552.15,283148959.56,260297152.31,94.13,86.54
+2024,Fundação Universidade Federal do Amapá,26286,Ministério da Educação,26000,324004738.49,273291233.66,257683858.57,84.35,79.53
+2024,Universidade Federal de Itajubá,26261,Ministério da Educação,26000,297983337.23,283679655.19,257647616.75,95.2,86.46
+2024,Universidade Federal do Oeste do Pará,26441,Ministério da Educação,26000,275917318.46,267001290.36,244545672.21,96.77,88.63
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Sertão de Pernambuco",26430,Ministério da Educação,26000,269238693.22,258730630.53,235575199.38,96.1,87.5
+2024,Fundação Universidade Federal de Ciências da Saúde de Porto Alegre,26284,Ministério da Educação,26000,226240398.76,211458243.25,194329118.09,93.47,85.89
+2024,Universidade Federal da Integração Latino-Americana,26267,Ministério da Educação,26000,215359075.87,204996389.61,188696695.79,95.19,87.62
+2024,Universidade da Integração Internacional da Lusofonia Afro-Brasileira,26442,Ministério da Educação,26000,211922206.16,198837043.56,181814368.03,93.83,85.79
+2024,"Instituto Federal de Educação, Ciência e Tecnologia de Roraima",26437,Ministério da Educação,26000,198950468.81,189668309.05,175102999.96,95.33,88.01
+2024,Universidade Federal do Sul e Sudeste do Pará,26448,Ministério da Educação,26000,182394812.44,171602379.47,156581507.88,94.08,85.85
+2024,Universidade Federal do Cariri,26449,Ministério da Educação,26000,165560142.32,159234567.62,146529984.92,96.18,88.51
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Acre",26425,Ministério da Educação,26000,170140235.5,157707661.45,144465174.43,92.69,84.91
+2024,Universidade Federal do Sul da Bahia,26450,Ministério da Educação,26000,161387692.89,156467083.38,141891010.22,96.95,87.92
+2024,Universidade Federal do Oeste da Bahia,26447,Ministério da Educação,26000,150739722.73,143729324.54,131752534.67,95.35,87.4
+2024,Fundação Joaquim Nabuco,26292,Ministério da Educação,26000,146015348.73,141039117.33,129855388.23,96.59,88.93
+2024,Universidade Federal de Jataí,26453,Ministério da Educação,26000,146558522.29,141447433.91,129771978.14,96.51,88.55
+2024,Universidade Federal de Catalão,26452,Ministério da Educação,26000,149737035.03,146198167.21,126094244.18,97.64,84.21
+2024,"Instituto Federal de Educação, Ciência e Tecnologia do Amapá",26426,Ministério da Educação,26000,140001249.3,125982452.77,114985987.41,89.99,82.13
+2024,Universidade Federal do Norte do Tocantins,26457,Ministério da Educação,26000,135861838.67,122642146.08,111135739.27,90.27,81.8
+2024,Universidade Federal de Rondonópolis,26454,Ministério da Educação,26000,134898875.03,120394612.38,108407443.58,89.25,80.36
+2024,Universidade Federal do Delta do Parnaíba,26455,Ministério da Educação,26000,107325623.56,102219672.34,92782388.97,95.24,86.45
+2024,Universidade Federal do Agreste de Pernambuco,26456,Ministério da Educação,26000,83371605.92,81235840.34,72875115.53,97.44,87.41

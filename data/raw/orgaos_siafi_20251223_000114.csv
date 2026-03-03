@@ -1,0 +1,763 @@
+codigo,descricao
+00000,CODIGO INVALIDO - Unidades com vínculo direto
+00202,CODIGO INVALIDO
+00203,CODIGO INVALIDO
+00239,CODIGO INVALIDO
+00415,CODIGO INVALIDO
+01000,Câmara dos Deputados - Unidades com vínculo direto
+01280,CODIGO INVALIDO
+01427,CODIGO INVALIDO
+01901,Fundo Rotativo da Câmara dos Deputados
+02000,Senado Federal - Unidades com vínculo direto
+02001,Fundo Especial do Senado Federal
+02002,Senado Federal/FUNSEEP
+02003,Fundo da Secretaria Especial de Informática
+02111,CODIGO INVALIDO
+02121,CODIGO INVALIDO
+02131,CODIGO INVALIDO
+02132,CODIGO INVALIDO
+02133,CODIGO INVALIDO
+02201,CODIGO INVALIDO
+02203,CODIGO INVALIDO
+02210,CODIGO INVALIDO
+02233,CODIGO INVALIDO
+02904,CODIGO INVALIDO
+02911,CODIGO INVALIDO
+03000,Tribunal de Contas da União - Unidades com vínculo direto
+04000,CODIGO INVALIDO
+04205,CODIGO INVALIDO
+04207,CODIGO INVALIDO
+04901,CODIGO INVALIDO
+04902,CODIGO INVALIDO
+05000,CODIGO INVALIDO
+05131,CODIGO INVALIDO
+05206,CODIGO INVALIDO
+06000,CODIGO INVALIDO
+06201,CODIGO INVALIDO
+06211,CODIGO INVALIDO
+06212,CODIGO INVALIDO
+06236,CODIGO INVALIDO
+06238,CODIGO INVALIDO
+06239,CODIGO INVALIDO
+06242,CODIGO INVALIDO
+06245,CODIGO INVALIDO
+06246,CODIGO INVALIDO
+06248,CODIGO INVALIDO
+06250,CODIGO INVALIDO
+06251,CODIGO INVALIDO
+06261,CODIGO INVALIDO
+06266,CODIGO INVALIDO
+06271,CODIGO INVALIDO
+06272,CODIGO INVALIDO
+06274,CODIGO INVALIDO
+06275,CODIGO INVALIDO
+06286,CODIGO INVALIDO
+06291,CODIGO INVALIDO
+06352,CODIGO INVALIDO
+06406,CODIGO INVALIDO
+06408,CODIGO INVALIDO
+06409,CODIGO INVALIDO
+06412,CODIGO INVALIDO
+06414,CODIGO INVALIDO
+06415,CODIGO INVALIDO
+06416,CODIGO INVALIDO
+06423,CODIGO INVALIDO
+06428,CODIGO INVALIDO
+06432,CODIGO INVALIDO
+06436,CODIGO INVALIDO
+06437,CODIGO INVALIDO
+06440,CODIGO INVALIDO
+06443,CODIGO INVALIDO
+06448,CODIGO INVALIDO
+06452,CODIGO INVALIDO
+07202,CODIGO INVALIDO
+09000,CODIGO INVALIDO
+09214,CODIGO INVALIDO
+09250,CODIGO INVALIDO
+10000,Supremo Tribunal Federal - Unidades com vínculo direto
+11000,Superior Tribunal de Justiça - Unidades com vínculo direto
+12000,Justiça Federal - Unidades com vínculo direto
+12111,CODIGO INVALIDO
+12132,CODIGO INVALIDO
+12800,Justiça Federal
+12801,Tribunal Regional Federal - 1ª Região
+12802,Tribunal Regional Federal - 2ª Região
+12803,Tribunal Regional Federal - 3ª Região
+12804,Tribunal Regional Federal - 4ª Região
+12805,Tribunal Regional Federal - 5ª Região
+13000,Justiça Militar - Unidades com vínculo direto
+14000,Justiça Eleitoral - Unidades com vínculo direto
+14001,Fundo Especial de Assistência Financeira aos Partidos Políticos
+15000,Justiça do Trabalho - Unidades com vínculo direto
+15228,CODIGO INVALIDO
+15250,CODIGO INVALIDO
+15266,CODIGO INVALIDO
+15268,CODIGO INVALIDO
+15500,CODIGO INVALIDO
+15577,CODIGO INVALIDO
+16000,Justiça do Distrito Federal e Territórios - Unidades com vínculo direto
+16231,CODIGO INVALIDO
+16271,CODIGO INVALIDO
+16280,CODIGO INVALIDO
+16283,CODIGO INVALIDO
+16352,CODIGO INVALIDO
+16443,CODIGO INVALIDO
+17000,Conselho Nacional de Justiça - Unidades com vínculo direto
+19500,CODIGO INVALIDO
+20000,Presidência da República - Unidades com vínculo direto
+20101,Presidência da República
+20102,Gabinete da Vice-Presidência da República
+20103,Ministério da Administração Federal e Reforma do Estado - em extinção - Unidades com vínculo direto
+20104,Secretaria de Assuntos Estratégicos
+20105,Ministério da Defesa - Unidades com vínculo direto
+20107,SECRETARIA DE AVIACAO CIVIL
+20113,Ministério do Planejamento e Orçamento - Unidades com vínculo direto
+20114,Advocacia-Geral da União - Unidades com vínculo direto
+20115,Fundo Nacional para a Criança e o Adolescente
+20116,Fundo de Imprensa Nacional
+20117,Fundo Nacional Antidrogas
+20118,AGENCIA BRASILEIRA DE INTELIGENCIA - ABIN
+20121,SECRETARIA ESPECIAL DOS DIREITOS HUMANOS
+20122,Secretaria Nacional de Políticas para Mulheres
+20124,Secretaria Especial de Aqüicultura e Pesca
+20125,Controladoria-Geral da União
+20126,SECRETARIA ESPECIAL DE POLITICAS DE PROMOCAO DA IGUALDADE RACIAL
+20128,SECRETARIA DE PORTOS
+20129,Secretaria Especial de Agricultura Familiar e do Desenvolvimento Agrário
+20202,Fundação Escola Nacional de Administração Pública
+20203,Agência Nacional do Cinema
+20213,Empresa Brasileira de Infraestrutura Aeroportuária
+20214,Agência Nacional de Aviação Civil
+20234,CODIGO INVALIDO
+20301,Comissão Nacional de Energia Nuclear
+20302,Nuclebrás Equipamentos Pesados S.A.
+20303,Indústrias Nucleares do Brasil
+20402,Agência Espacial Brasileira
+20403,Fundação Casa de Rui Barbosa
+20404,Fundação Biblioteca Nacional
+20407,Fundação do Cinema Brasileiro
+20408,Fundação Cultural Palmares
+20410,Fundação Nacional Pró-Leitura
+20411,Instituto do Patrimônio Histórico e Artístico Nacional
+20412,Fundação Nacional de Artes
+20415,Empresa Brasil de Comunicação
+20501,Conselho Nacional de Desenvolvimento Científico e Tecnológico
+20502,Financiadora de Estudos e Projetos
+20503,Fundação Centro Tecnológico para Informática
+20601,Superintendência do Desenvolvimento do Nordeste
+20602,Superintendência do Desenvolvimento da Amazônia
+20603,Superintendência da Zona Franca de Manaus
+20604,Instituto Brasileiro de Turismo
+20605,Companhia de Desenvolvimento de Barcarena
+20701,Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+20801,Secretaria de Patrimônio da União
+20802,"Subsecretaria de Planejamento, Orçamento e Administração/MP"
+20803,Secretaria de Administração
+20924,Fundo Nacional de Desenvolvimento
+20929,Fundo Nacional do Idoso
+21000,CODIGO INVALIDO
+22000,Ministério da Agricultura e Pecuária - Unidades com vínculo direto
+22200,CODIGO INVALIDO
+22201,Instituto Nacional de Colonização e Reforma Agrária
+22202,Empresa Brasileira de Pesquisa Agropecuária
+22203,Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba
+22204,Departamento Nacional de Obras Contra as Secas
+22207,Companhia de Colonização do Nordeste
+22211,Companhia Nacional de Abastecimento
+22500,Companhia de Entrepostos e Armazéns Gerais de São Paulo
+22801,Comissão Executiva do Plano da Lavoura Cacaueira
+22802,Instituto Nacional de Meteorologia
+22803,Secretaria Nacional de Defesa Agropecuária
+22804,"Subsecretaria de Planejamento, Orçamento e Administração/MAPA"
+22805,Fundo Geral do Cacau
+22806,Secretaria de Desenvolvimento Agropecuário e Cooperativismo
+22904,CODIGO INVALIDO
+22905,Fundo de Defesa da Economia Cafeeira
+23000,Ministério do Bem Estar Social - em extinção - Unidades com vínculo direto
+23201,Fundação Centro Brasileira da Infância e Adolescência - em extinção
+23202,Fundação Legião Brasileira de Assistência
+24000,"Ministério da Ciência, Tecnologia e Inovação - Unidades com vínculo direto"
+24101,CODIGO INVALIDO
+24205,CODIGO INVALIDO
+24208,Instituto Nacional de Tecnologia da Informação
+24209,Centro Nacional de Tecnologia Eletrônica Avançada S.A.
+24216,Telecomunicações Brasileiras S.A.
+24801,Instituto Nacional de Pesquisas Espaciais
+24802,"Subsecretaria de Planejamento, Orçamento e Administração/MCT"
+24803,Financiadora de Estudos e Projetos
+24901,Fundo Nacional de Desenvolvimento Científico e Tecnológico
+25000,Ministério da Fazenda - Unidades com vínculo direto
+25001,Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização
+25002,Fundo Especial de Treinamento e Desenvolvimento
+25101,CODIGO INVALIDO
+25201,Banco Central do Brasil - Orçamento Fiscal e Seguridade Social - Unidades com vínculo direto
+25202,Banco da Amazônia
+25203,Comissão de Valores Mobiliários
+25205,Fundação Instituto Brasileiro de Geografia e Estatística
+25206,Instituto de Pesquisa Econômica Aplicada
+25207,Serviço Federal de Processamento de Dados
+25208,Superintendência de Seguros Privados
+25209,Superintendência Nacional do Abastecimento - em extinção
+25211,Casa da Moeda do Brasil
+25220,Caixa Econômica Federal
+25274,CODIGO INVALIDO
+25280,Banco Central do Brasil
+25281,Banco do Brasil S.A.
+25282,Banco do Nordeste do Brasil
+25289,Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A.
+25301,Empresa Gestora de Ativos
+25500,CODIGO INVALIDO
+25801,Receita Federal do Brasil
+25802,Escola de Administração Fazendária
+25803,Procuradoria-Geral da Fazenda Nacional
+25804,"Subsecretaria de Planejamento, Orçamento e Administração/MF"
+25805,Secretaria do Tesouro Nacional
+25806,Secretaria de Acompanhamento Econômico
+25901,Fundo de Compensação de Variações Salariais
+25902,Fundo de Investimentos do Nordeste
+25903,Fundo de Investimentos da Amazônia
+25904,Fundo de Estabilidade do Seguro Rural
+25905,Fundo de Apoio ao Desenvolvimento Social
+25907,Fundo Constitucional de Financiamento do Norte - Integração
+25908,Fundo Constitucional de Financiamento do Centro-Oeste - Integração
+25910,Fundo Constitucional de Financiamento do Nordeste - Integração
+25914,Fundo de Garantia à Exportação
+25915,Fundo Constitucional do Distrito Federal
+25916,Fundo Contingente da Extinta RFFSA-FCMP
+25917,Fundo para Pagamento de Prestações no caso de Perda de Renda por Desemprego e Invalidez Temporária
+26000,Ministério da Educação - Unidades com vínculo direto
+26101,Fundo de Financiamento ao Estudante do Ensino Superior
+26201,Colégio Pedro II
+26202,Centro Federal de Educação Tecnológica de Alagoas
+26203,Centro Federal de Educação Tecnológica do Amazonas
+26204,Escola Técnica Federal da Bahia
+26205,Centro Federal de Educação Tecnológica de Campos
+26206,Centro Federal de Educação Tecnológica do Ceará
+26207,Centro Federal de Educação Tecnológica do Espírito Santo
+26208,Centro Federal de Educação Tecnológica de Goiás
+26209,Centro Federal de Educação Tecnológica do Maranhão
+26210,Centro Federal de Educação Tecnológica do Mato Grosso
+26211,Centro Federal de Educação Tecnológica de Ouro Preto
+26212,Centro Federal de Educação Tecnológica do Pará
+26213,Centro Federal de Educação Tecnológica da Paraíba
+26214,Centro Federal de Educação Tecnológica Pelotas
+26215,Centro Federal de Educação Tecnológica de Pernambuco
+26216,Centro Federal de Educação Tecnologica do Piaui
+26217,Centro Federal de Educação Tecnológica de Química - Nilópolis RJ
+26218,Centro Federal de Educação Tecnológica do Rio Grande do Norte
+26219,Centro Federal de Educação Tecnológica de Santa Catarina
+26220,Centro Federal de Educação Tecnológica de São Paulo
+26221,Centro Federal de Educação Tecnológica de Sergipe
+26222,Centro Federal de Educação Tencológica de Roraima
+26223,Escola Técnica Federal de Palmas
+26224,Escola Técnica Federal de Rondônia
+26230,Fundação Universidade Federal do Vale do São Francisco
+26231,Universidade Federal de Alagoas
+26232,Universidade Federal da Bahia
+26233,Universidade Federal do Ceará
+26234,Universidade Federal do Espírito Santo
+26235,Universidade Federal de Goiás
+26236,Universidade Federal Fluminense
+26237,Universidade Federal de Juiz de Fora
+26238,Universidade Federal de Minas Gerais
+26239,Universidade Federal do Pará
+26240,Universidade Federal da Paraíba
+26241,Universidade Federal do Paraná
+26242,Universidade Federal de Pernambuco
+26243,Universidade Federal do Rio Grande do Norte
+26244,Universidade Federal do Rio Grande do Sul
+26245,Universidade Federal do Rio de Janeiro
+26246,Universidade Federal de Santa Catarina
+26247,Universidade Federal de Santa Maria
+26248,Universidade Federal Rural de Pernambuco
+26249,Universidade Federal Rural do Rio de Janeiro
+26250,Universidade Federal de Roraima
+26251,Fundação Universidade Federal do Tocantins
+26252,Universidade Federal de Campina Grande
+26253,Universidade Federal Rural da Amazônia
+26254,Universidade Federal do Triângulo Mineiro
+26255,Universidade Federal dos Vales do Jequitinhonha e Mucuri
+26256,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+26257,Centro Federal de Educação Tecnológica de Minas Gerais
+26258,Universidade Tecnológica Federal do Paraná
+26259,Centro Federal de Educação Tecnológica da Bahia
+26260,Universidade Federal de Alfenas
+26261,Universidade Federal de Itajubá
+26262,Universidade Federal de São Paulo
+26263,Universidade Federal de Lavras
+26264,Universidade Federal Rural do Semi-Árido
+26266,Fundação Universidade Federal do Pampa
+26267,Universidade Federal da Integração Latino-Americana
+26268,Fundação Universidade Federal de Rondônia
+26269,Universidade Federal do Estado do Rio de Janeiro
+26270,Fundação Universidade do Amazonas
+26271,Fundação Universidade de Brasília
+26272,Fundação Universidade do Maranhão
+26273,Universidade Federal do Rio Grande
+26274,Fundação Universidade Federal de Uberlândia
+26275,Fundação Universidade Federal do Acre
+26276,Fundação Universidade Federal do Mato Grosso
+26277,Universidade Federal de Ouro Preto
+26278,Fundação Universidade Federal de Pelotas
+26279,Fundação Universidade Federal do Piauí
+26280,Fundação Universidade Federal de São Carlos
+26281,Fundação Universidade Federal de Sergipe
+26282,Universidade Federal de Viçosa
+26283,Fundação Universidade Federal do Mato Grosso do Sul
+26284,Fundação Universidade Federal de Ciências da Saúde de Porto Alegre
+26285,Fundação Universidade Federal de São João Del-Rei
+26286,Fundação Universidade Federal do Amapá
+26287,Escola Agrotécnica Federal de Marabá
+26288,Escola Agrotécnica Federal de Nova Andradina
+26289,Escola Agrotécnica Federal de São Raimundo das Mangabeiras
+26290,Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+26291,Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+26292,Fundação Joaquim Nabuco
+26293,Fundação Roquette Pinto - em extinção
+26294,Hospital de Clínicas de Porto Alegre
+26295,Instituto Nacional de Desenvolvimento do Desporto
+26298,Fundo Nacional de Desenvolvimento da Educação
+26301,Centro Federal de Educação Tecnológica da Bahia
+26302,Escola Agrotécnica Federal de Alegre
+26303,Escola Agrotécnica Federal de Alegrete
+26304,Escola Agrotécnica Federal de Araguatins
+26305,Centro Federal de Educação Tecnológica de Bambuí
+26306,Escola Agrotécnica Federal de Barbacena
+26307,Escola Agrotécnica Federal de Barreiros
+26308,Escola Agrotécnica Federal de Belo Jardim
+26309,Centro Federal de Educação Tecnológica de Bento Gonçalves
+26310,Escola Agrotécnica Federal de Cáceres
+26311,Escola Agrotécnica Federal de Castanhal
+26312,Escola Agrotécnica Federal de Catu
+26313,Escola Agrotécnica Federal de Colatina
+26314,Escola Agrotécnica Federal de Concórdia
+26315,Escola Agrotécnica Federal de Crato
+26316,Centro Federal de Educação Tecnológica de Cuiabá
+26317,Escola Agrotécnica Federal de Iguatu
+26318,Escola Agrotécnica Federal de Inconfidentes
+26319,Centro Federal de Educação Tecnológica de Januária
+26320,Escola Agrotécnica Federal de Machado
+26321,Escola Agrotécnica Federal de Manaus
+26322,Escola Agrotécnica Federal de Muzambinho
+26323,Centro Federal de Educação Tecnológica de Petrolina
+26324,Centro Federal de Educação Tecnológica de Rio Pomba
+26325,Centro Federal de Educação Tecnológica de Rio Verde
+26326,Escola Agrotécnica Federal de Salinas
+26327,Escola Agrotécnica Federal de Santa Teresa
+26328,Escola Agrotécnica Federal de São Cristóvão
+26329,Escola Agrotécnica Federal de São João Evangelista
+26330,Escola Agrotécnica Federal de São Luis
+26331,Centro Federal de Educação Tecnológica de São Vicente do Sul
+26332,Escola Agrotécnica Federal de Satuba
+26333,Escola Agrotécnica Federal de Sertão
+26334,Escola Agrotécnica Federal de Sousa
+26335,Centro Federal de Educação Tecnológica de Uberaba
+26336,Escola Agrotécnica Federal de Uberlândia
+26337,Centro Federal de Educação Tecnológica de Urutaí
+26338,Escola Agrotécnica Federal de Vitória de Santo Antão
+26339,Escola Agrotécnica Federal de São Gabriel da Cachoeira
+26340,Escola Agrotécnica Federal de Sombrio
+26341,Escola Agrotécnica Federal de Ceres
+26342,Escola Agrotécnica Federal de Colorado do Oeste
+26343,Escola Agrotécnica Federal de Codó
+26344,Escola Agrotécnica Federal Antônio José Teixeira
+26345,Escola Agrotécnica Federal de Rio do Sul
+26346,Escola Agrotécnica Federal de Santa Inês
+26347,Escola Agrotécnica Federal do Senhor do Bonfim
+26350,Fundação Universidade Federal da Grande Dourados
+26351,Universidade Federal do Recôncavo da Bahia
+26352,Fundação Universidade Federal do ABC
+26353,Escola Técnica Federal do Acre
+26354,Escola Técnica Federal do Amapá
+26355,Escola Técnica Federal do Mato Grosso do Sul
+26356,"Instituto Federal de Educação, Ciência e Tecnologia de Brasília"
+26357,Escola Técnica Federal de Canoas
+26358,CODIGO INVALIDO
+26372,CODIGO INVALIDO
+26378,CODIGO INVALIDO
+26387,CODIGO INVALIDO
+26401,CODIGO INVALIDO
+26402,"Instituto Federal de Educação, Ciência e Tecnologia de Alagoas"
+26403,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas"
+26404,"Instituto Federal de Educação, Ciência e Tecnologia Baiano"
+26405,"Instituto Federal de Educação, Ciência e Tecnologia do Ceará"
+26406,"Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+26407,"Instituto Federal de Educação, Ciência e Tecnologia Goiano"
+26408,"Instituto Federal de Educação, Ciência e Tecnologia do Maranhão"
+26409,"Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais"
+26410,"Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais"
+26411,"Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais"
+26412,"Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais"
+26413,"Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro"
+26414,"Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso"
+26415,"Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul"
+26416,"Instituto Federal de Educação, Ciência e Tecnologia do Pará"
+26417,"Instituto Federal de Educação, Ciência e Tecnologia da Paraíba"
+26418,"Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco"
+26419,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul"
+26420,"Instituto Federal de Educação, Ciência e Tecnologia Farroupilha"
+26421,"Instituto Federal de Educação, Ciência e Tecnologia de Rondônia"
+26422,"Instituto Federal de Educação, Ciência e Tecnologia Catarinense"
+26423,"Instituto Federal de Educação, Ciência e Tecnologia de Sergipe"
+26424,"Instituto Federal de Educação, Ciência e Tecnologia do Tocantins"
+26425,"Instituto Federal de Educação, Ciência e Tecnologia do Acre"
+26426,"Instituto Federal de Educação, Ciência e Tecnologia do Amapá"
+26427,"Instituto Federal de Educação, Ciência e Tecnologia da Bahia"
+26428,"Instituto Federal de Educação, Ciência e Tecnologia de Brasília"
+26429,"Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+26430,"Instituto Federal de Educação, Ciência e Tecnologia do Sertão de Pernambuco"
+26431,"Instituto Federal de Educação, Ciência e Tecnologia do Piauí"
+26432,Instituto Federal do Paraná
+26433,"Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro"
+26434,"Instituto Federal de Educação, Ciência e Tecnologia Fluminense"
+26435,"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte"
+26436,"Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense"
+26437,"Instituto Federal de Educação, Ciência e Tecnologia de Roraima"
+26438,"Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina"
+26439,"Instituto Federal de Educação, Ciência e Tecnologia de São Paulo"
+26440,Universidade Federal da Fronteira Sul
+26441,Universidade Federal do Oeste do Pará
+26442,Universidade da Integração Internacional da Lusofonia Afro-Brasileira
+26443,Empresa Brasileira de Serviços Hospitalares
+26445,CODIGO INVALIDO
+26447,Universidade Federal do Oeste da Bahia
+26448,Universidade Federal do Sul e Sudeste do Pará
+26449,Universidade Federal do Cariri
+26450,Universidade Federal do Sul da Bahia
+26452,Universidade Federal de Catalão
+26453,Universidade Federal de Jataí
+26454,Universidade Federal de Rondonópolis
+26455,Universidade Federal do Delta do Parnaíba
+26456,Universidade Federal do Agreste de Pernambuco
+26457,Universidade Federal do Norte do Tocantins
+26620,CODIGO INVALIDO
+26801,Secretaria de Educação Básica
+26802,Subsecretaria de Assuntos Administrativos/MEC
+26812,CODIGO INVALIDO
+27000,CODIGO INVALIDO
+27201,Fundação Habitacional do Exército
+28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços - Unidades com vínculo direto"
+28500,Fundo de Garantia para a Promoção da Competitividade
+28501,Fundo Nacional de Desestatização
+28801,"Subsecretaria de Planejamento, Orçamento e Administração/MDIC"
+28904,Fundo de Garantia para a Promoção da Competitividade
+29000,Defensoria Pública da União - Unidades com vínculo direto
+29201,Departamento Nacional de Estradas de Rodagem
+29202,Companhia de Navegação do São Francisco - em liquidação
+29203,Empresa Brasileira de Planejamento de Transportes - em liquidação
+29204,Empresa de Navegação da Amazônia S.A.
+29205,Empresa de Trens Urbanos de Porto Alegre
+29207,Serviço de Navegação da Bacia do Prata S.A.
+29208,Companhia de Pesquisa de Recursos Minerais
+29209,"VALEC Engenharia, Construções e Ferrovias S.A."
+29214,Companhia Brasileira de Trens Urbanos
+30000,Ministério da Justiça e Segurança Pública - Unidades com vínculo direto
+30001,CODIGO INVALIDO
+30101,CODIGO INVALIDO
+30108,Polícia Federal
+30201,Radiobrás Empresa Brasileira de Comunicação S.A.
+30202,Fundação Nacional dos Povos Indígenas
+30203,"Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+30204,Instituto Nacional da Propriedade Industrial
+30205,Fundação Nacional do Índio - Patrimônio Indígena
+30211,Conselho Administrativo de Defesa Econômica
+30212,Autoridade Nacional de Proteção de Dados
+30403,CODIGO INVALIDO
+30801,Departamento de Polícia Federal
+30802,Polícia Rodoviária Federal
+30803,"Subsecretaria de Planejamento, Orçamento e Administração/MJ"
+30905,Fundo de Defesa de Direitos Difusos
+30907,Fundo Penitenciário Nacional
+30909,Fundo para Aparelhamento e Operacionalização das Atividades Fim da Polícia Federal
+30911,Fundo Nacional de Segurança Pública
+30912,Fundo Nacional Antidrogas
+30913,Fundo Nacional para a Criança e o Adolescente
+30914,Fundo Nacional do Idoso
+31280,Caixa de Construções de Casas para o Pessoal da Marinha do Brasil
+32000,Ministério de Minas e Energia - Unidades com vínculo direto
+32131,CODIGO INVALIDO
+32201,Centro de Pesquisas de Energia Elétrica
+32203,CODIGO INVALIDO
+32205,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+32210,Agência Nacional de Energia Elétrica
+32263,Departamento Nacional de Produção Mineral
+32314,Empresa de Pesquisa Energética
+32396,Agência Nacional de Mineração
+32397,CODIGO INVALIDO
+32801,"Subsecretaria de Planejamento, Orçamento e Administração/MME"
+32802,Companhia de Pesquisa de Recursos Minerais
+32991,Reserva Global de Reversão/Eletrobrás
+32992,Conta de Desenvolvimento Energético
+32993,Conta Consumo de Combustíveis Fósseis
+33000,Ministério da Previdência Social - Unidades com vínculo direto
+33206,Superintendência Nacional de Previdência Complementar
+33801,"Subsecretaria de Planejamento, Orçamento e Administração/MPS"
+34000,Ministério Público da União - Unidades com vínculo direto
+34201,CODIGO INVALIDO
+34205,CODIGO INVALIDO
+34801,Ministério Público Federal
+34802,Ministério Público do Trabalho
+34902,Fundo Nacional de Cultura
+35000,Ministério das Relações Exteriores - Unidades com vínculo direto
+35201,Fundação Alexandre de Gusmão
+36000,Ministério da Saúde - Unidades com vínculo direto
+36201,Fundação Oswaldo Cruz
+36208,Hospital Cristo Redentor S.A.
+36209,Hospital Fêmina S.A.
+36210,Hospital Nossa Senhora da Conceição S.A.
+36211,Fundação Nacional de Saúde
+36212,Agência Nacional de Vigilância Sanitária
+36213,Agência Nacional de Saúde Suplementar
+36401,CODIGO INVALIDO
+37000,Controladoria-Geral da União - Unidades com vínculo direto
+37201,"Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do Trabalho"
+37202,Instituto Nacional do Seguro Social
+37904,Fundo do Regime Geral da Previdência Social
+38000,Ministério do Trabalho e Emprego - Unidades com vínculo direto
+38091,CODIGO INVALIDO
+38299,Rede Ferroviária Federal S.A.
+38500,Conselho Federal de Contabilidade
+38505,Conselho Regional de Contabilidade do DF
+38518,Conselho Regional de Contabilidade do Rio de Janeiro
+38801,"Subsecretaria de Planejamento, Orçamento e Administração/MTE"
+38802,Secretaria de Políticas Públicas de Emprego
+38803,Delegacia Regional do Trabalho de São Paulo
+38901,Fundo de Amparo ao Trabalhador
+39000,Ministério dos Transportes - Unidades com vínculo direto
+39250,Agência Nacional de Transportes Terrestres
+39251,Agência Nacional de Transportes Aquaviários
+39252,Departamento Nacional de Infraestrutura de Transportes
+39253,Empresa de Planejamento e Logística S.A.
+39801,Subsecretaria de Assuntos Administrativos/MT
+39802,Subsecretaria de Planejamento e Orçamento/ MT
+39811,Companhia Docas do Rio de Janeiro
+39812,Companhia Docas do Estado da Bahia
+39813,Companhia Docas do Ceará
+39814,Companhia Docas do Pará
+39815,Companhia Docas do Rio Grande do Norte
+39816,Companhia Docas do Estado de São Paulo
+39817,Companhia Docas do Espírito Santo
+40000,Ministério do Trabalho e Emprego - Unidades com vínculo direto
+40415,CODIGO INVALIDO
+41000,Ministério das Comunicações - Unidades com vínculo direto
+41231,Agêncial Nacional de Telecomunicações
+41232,Fundo de Universalização dos Serviços de Telecomunicações
+41233,Fundo de Fiscalização das Telecomunicações
+41801,"Subsecretaria de Planejamento, Orçamento e Administração/MC"
+41903,Fundo para o Desenvolvimento Tecnológico das Telecomunicações
+42000,Ministério da Cultura - Unidades com vínculo direto
+42207,Instituto Brasileiro de Museus
+42801,Diretoria de Gestão Interna - Ministério da Cultura
+44000,Ministério do Meio Ambiente e Mudança do Clima - Unidades com vínculo direto
+44204,Fundo Nacional do Meio Ambiente
+44205,Agência Nacional de Águas e Saneamento Básico
+44206,Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
+44207,Instituto Chico Mendes de Conservação da Biodiversidade
+44208,Serviço Florestal Brasileiro
+44444,Transferência Voluntária - Portal SICONV - Unidades com vínculo direto
+44801,"Subsecretaria de Planejamento, Orçamento e Administração do Ministério do Meio Ambiente"
+44902,Fundo Nacional sobre Mudança no Clima
+45282,Banco Nacional de Desenvolvimento Econômico e Social
+45283,Instituto de Resseguros do Brasil
+45724,CODIGO INVALIDO
+46000,Ministério da Gestão e da Inovação em Serviços Públicos - Unidades com vínculo direto
+47000,Ministério do Planejamento e Orçamento - Unidades com vínculo direto
+47214,Autoridade Pública Olímpica
+48000,CODIGO VAGO - Unidades com vínculo direto
+49000,Ministério do Desenvolvimento Agrário e Agricultura Familiar - Unidades com vínculo direto
+49001,Fundo de Terras
+49280,Empresa Brasileira de Correios e Telégrafos
+49901,Fundo da Marinha Mercante
+50000,Gabinete do Ministro Extraordinário de Projetos Especiais
+51000,Ministério do Esporte - Unidades com vínculo direto
+51801,"Secretaria de Planejamento, Orçamento e Administração/ME"
+52000,Ministério da Defesa - Unidades com vínculo direto
+52001,Fundo do Ministério da Defesa
+52002,Fundo de Administração do Hospital das Forças Armadas
+52003,Fundo do Serviço Militar
+52111,Comando da Aeronáutica
+52121,Comando do Exército
+52131,Comando da Marinha
+52132,Comando da Marinha - Fundo Naval
+52133,Fundo de Desenvolvimento do Ensino Profissional Marítimo
+52201,Agência Nacional de Aviação Civil
+52211,Caixa de Financiamento Imobiliário da Aeronáutica
+52212,Empresa Brasileira de Infraestrutura Aeroportuária
+52221,Indústria de Material Bélico do Brasil
+52222,Fundação Osório
+52231,Empresa Gerencial de Projetos Navais
+52233,Amazônia Azul Tecnologia de Defesa S.A.
+52801,Secretaria de Organização Institucional
+52904,Fundo do Exército
+52911,Fundo Aeronáutico
+52912,Fundo Aeroviário
+52931,CODIGO INVALIDO
+53000,Ministério da Integração e do Desenvolvimento Regional - Unidades com vínculo direto
+53001,CODIGO INVALIDO
+53202,Superintendência do Desenvolvimento da Amazônia
+53203,Superintendência do Desenvolvimento do Nordeste
+53204,Código sem efeito - pode ser reaproveitado conforme SOF
+53205,Agência de Desenvolvimento da Amazônia
+53206,Agência de Desenvolvimento do Nordeste
+53207,Superintendência de Desenvolvimento do Centro-Oeste
+53208,Fundo Constitucional de Financiamento do Norte
+53209,Fundo Constitucional de Financiamento do Centro-Oeste
+53210,Fundo Constitucional de Financiamento do Nordeste
+53297,Código sem efeito - pode ser reaproveitado conforme SOF
+53801,Departamento de Gestão Interna do Ministério da Integração e do Desenvolvimento Regional
+53802,Departamento de Gestão de Fundos de Investimentos
+53901,Fundo Constitucional de Financiamento do Norte
+53902,Fundo Constitucional de Financiamento do Centro-Oeste
+53903,Fundo Constitucional de Financiamento do Nordeste
+53904,Fundo de Desenvolvimento da Amazônia
+53905,Fundo de Desenvolvimento do Nordeste
+54000,Ministério do Turismo - Unidades com vínculo direto
+54801,"Subsecretaria de Planejamento, Orçamento e Administração/MTUR"
+54901,Fundo Geral de Turismo
+55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome - Unidades com vínculo direto"
+55001,Fundo Nacional de Assistência Social
+55133,CODIGO INVALIDO
+55801,"Secretaria de Planejamento, Orçamento e Administração/MDS"
+55901,CODIGO INVALIDO
+56000,Ministério das Cidades - Unidades com vínculo direto
+56280,CODIGO INVALIDO
+56801,"Subsecretaria de Planejamento, Orçamento e Administração/MICI"
+56901,Fundo Nacional de Segurança e Educação de Trânsito
+56902,Fundo Nacional de Habitação de Interesse Social
+57000,"Ministério das Mulheres, Igualdade Racial, da Juventude e dos Direitos Humanos - Unidades com vínculo direto"
+57202,CODIGO INVALIDO
+57280,Empresa de Processamento de Dados da Previdência Social
+58000,Ministério da Pesca e Aquicultura - Unidades com vínculo direto
+59000,Conselho Nacional do Ministério Público - Unidades com vínculo direto
+59904,CODIGO INVALIDO
+60000,Gabinete da Vice-Presidência da República
+61000,Secretaria de Assuntos Estratégicos
+61201,Instituto de Pesquisa Econômica Aplicada
+62000,Secretaria de Aviação Civil
+62201,Agência Nacional de Aviação Civil
+62901,Fundo Nacional de Aviação Civil
+63000,Advocacia-Geral da União - Unidades com vínculo direto
+64000,Ministério dos Direitos Humanos e Cidadania - Unidades com vínculo direto
+64901,Fundo Nacional para a Criança e o Adolescente
+64902,Fundo Nacional do Idoso
+65000,Ministério das Mulheres - Unidades com vínculo direto
+66000,Controladoria-Geral da União
+67000,Ministério da Igualdade Racial - Unidades com vínculo direto
+68000,Ministério de Portos e Aeroportos - Unidades com vínculo direto
+68201,Agência Nacional de Transportes Aquaviários
+69000,"Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte - Unidades com vínculo direto"
+71000,ENCARGOS FINANCEIROS DA UNIAO - Unidades com vínculo direto
+71101,RECURSOS SOB SUPERVISAO DO MINISTERIO DA FAZENDA
+71102,"RECURSOS SOB SUPERVISAO DO MINISTERIO DO PLANEJAMENTO, ORCAMENTO E GESTAO"
+71103,ENCARGOS FINANCEIROS DA UNIAO - PAGAMENTO DE SENTENCAS JUDICIAIS
+71104,REMUNERACAO DE AGENTES FINANCEIROS - RECURSOS SOB SUPERVISAO DO MINISTERIO DA FAZENDA
+71901,FUNDO CONTINGENTE DA EXTINTA RFFSA - RECURSOS SOB SUPERVISAO DO MINISTERIO DA FAZENDA
+71902,Fundo Soberano do Brasil
+71903,FUNDO SOCIAL - FS
+71904,Fundo de Estabilidade do Seguro Rural
+71905,Fundo de Garantia à Exportação
+72131,CODIGO INVALIDO
+73000,"TRANSFERENCIAS A ESTADOS, DISTRITO FEDERAL E MUNICIPIOS - Unidades com vínculo direto"
+73101,RECURSOS SOB SUPERVISAO DO MINISTERIO DA FAZENDA
+73104,RECURSOS SOB SUPERVISAO DO MINISTERIO DE MINAS E ENERGIA
+73107,RECURSOS SOB SUPERVISAO DO MINISTERIO DA EDUCACAO
+73108,TRANSFERENCIAS CONSTITUCIONAIS - RECURSOS SOB SUPERVISAO DO MINISTERIO DA FAZENDA
+73109,RECURSOS SOB SUPERVISAO DO MINISTERIO DO ESPORTE
+73111,RECURSOS SOB SUPERVISAO DO MINISTERIO DO MEIO AMBIENTE
+73113,NAO SE APLICA
+73901,FUNDO CONSTITUCIONAL DO DISTRITO FEDERAL - FCDF
+74000,OPERACOES OFICIAIS DE CREDITO - Unidades com vínculo direto
+74101,RECURSOS SOB A SUPERVISAO DA SECRETARIA DO TESOURO NACIONAL - MINISTERIO DA FAZENDA
+74102,RECURSOS SOB SUPERVISAO DO MINISTERIO DA FAZENDA
+74201,RECURSOS SOB SUPERVISAO DA SUPERINTENDENCIA DE SEGUROS PRIVADOS/SUSEP- MINISTERIO DA FAZENDA
+74202,RECURSOS SOB SUPERVISAO DA AGENCIA NACIONAL DE SAUDE SUPLEMENTAR/ANS - MINISTERIO DA SAUDE
+74203,RECURSOS SOB SUPERVISAO DO INSTITUTO NACIONAL DE COLONIZACAO E REFORMA AGRARIA/INCRA - MIN. DO DESEN
+74204,RECURSOS SOB SUPERVISAO DA CAIXA DE CONSTRUCOES DE CASAS PARA O PESSOAL DA MARINHA - CCCPM
+74205,RECURSOS SOB SUPERVISAO DA CAIXA DE FINANCIAMENTO IMOBILIARIO DA AERONAUTICA
+74901,RECURSOS SOB SUPERVISAO DO FUNDO DE DEFESA DA ECONOMIA CAFEEIRA/FUNCAFE - MAPA
+74902,RECURSOS SOB SUPERVISAO DO FUNDO DE FINANCIAMENTO AO ESTUDANTE DO ENSINO SUPERIOR/FIEES - MIN. DA ED
+74904,RECURSOS SOB SUPERVISAO DO FUNDO DA MARINHA MERCANTE/FMM - MINISTERIO DOS TRANSPORTES
+74905,RECURSOS SOB SUPERVISAO DO FUNDO PARA O DESENV. TECNOL. DAS TELECOMUNICACOES/FUNTTEL - MIN DAS COMUN
+74906,RECURSOS SOB SUPERVISAO DO FUNDO DE TERRAS E DA REFORMA AGRARIA/BANCO DA TERRA - MIN. DO DESENV. AGR
+74907,RECURSOS SOB SUPERVISAO DO MINISTERIO DA INTEGRACAO NACIONAL
+74908,RECURSOS SOB SUPERVISAO DO FUNDO GERAL DE TURISMO/FUNGETUR - MINISTERIO DO TURISMO
+74910,RECURSOS SOB SUPERVISAO DO FUNDO NACIONAL DE DESENV. CIENTIFICO E TECNOLOGICO/FNDCT - MIN CIENCIA E
+74912,RECURSOS SOB SUPERVISAO DO FUNDO NACIONAL DE CULTURA
+74913,CODIGO INVALIDO - Unidades com vínculo direto
+74914,CODIGO INVALIDO - Unidades com vínculo direto
+74915,CODIGO INVALIDO - Unidades com vínculo direto
+74916,RECURSOS SOB SUPERVISAO DO FUNDO NACIONAL SOBRE MUDANCA DO CLIMA/FNMC - MINISTERIO DO MEIO AMBIENTE
+74917,Fundo de Desenvolvimento da Amazônia
+74918,Fundo de Desenvolvimento do Nordeste
+74919,Fundo de Desenvolvimento do Centro-Oeste
+75000,REFINANCIAMENTO DA DIVIDA PUBLICA MOBILIARIA FEDERAL - Unidades com vínculo direto
+75101,CODIGO INVALIDO
+76443,CODIGO INVALIDO
+78787,TESTE
+80000,"Entidades em extinção, dissolução ou privatização L.8029/90 - Unidades com vínculo direto"
+80201,Superintendência do Desenvolvimento da Região Centro-Oeste
+80202,Superintendência do Desenvolvimento da Região Sul - em extinção
+80203,Departamento Nacional de Obras de Saneamento
+80204,Instituto do Açúcar e do Álcool
+80208,A Empresa de Portos do Brasil S.A. - em extinção
+80210,Empresa Brasileira de Assistência Técnica e Extensão Rural
+81000,Ministério dos Direitos Humanos e Cidadania - Unidades com vínculo direto
+81901,Fundo Nacional para a Criança e o Adolescente
+81902,Fundo Nacional do Idoso
+82000,Ministério da Segurança Pública - Unidades com vínculo direto
+83000,Ministério dos Povos Indígenas - Unidades com vínculo direto
+83201,CODIGO INVALIDO
+84000,Ministério dos Povos Indígenas - Unidades com vínculo direto
+84201,CODIGO INVALIDO
+90000,Reserva de Contingência
+91000,Entidades que utilizam conta única - TCT - Unidades com vínculo direto
+91001,Governo do Distrito Federal - DAR - Unidades com vínculo direto
+91002,Prefeitura de São Luis - DAR - Unidades com vínculo direto
+91010,Estatais do Ministério da Fazenda
+91080,Estatais do Ministério das Minas e Energia
+91081,Empresas de Energia
+91082,Empresas de Telecomunicações
+91083,Companhia Vale do Rio Doce
+91084,Petrobrás - Holding
+91090,Estatais do Ministério dos Transportes
+91100,Justiças Estaduais - Processos Judiciais - Unidades com vínculo direto
+91214,Autoridade Pública Olímpica
+91700,Organismos Internacionais - Unidades com vínculo direto
+91800,Organizações Sociais - Unidades com vínculo direto
+91900,Empresa Privada - Unidades com vínculo direto
+92001,Município de Goianésia - Unidades com vínculo direto
+93000,Região Norte
+93120,Estado do Acre
+93220,Estado do Amapá
+93259,CODIGO INVALIDO
+93320,Estado do Amazonas
+93420,Estado do Pará
+93520,Estado de Rondônia
+93620,Estado de Roraima
+93720,Estado de Tocantins
+94000,Região Nordeste
+94120,Estado do Maranhão
+94220,Estado do Piauí
+94320,Estado do Ceará
+94420,Estado do Rio Grande do Norte
+94520,Estado da Paraíba
+94620,Estado de Pernambuco
+94720,Estado das Alagoas
+94820,Estado de Sergipe
+94920,Estado da Bahia
+95000,Região Sudeste
+95120,Estado de Minas Gerais
+95220,Estado do Espírito Santo
+95320,Estado do Rio de Janeiro
+95420,Estado de São Paulo
+96000,Região Sul
+96120,Estado do Paraná
+96220,Estado de Santa Catarina
+96320,Estado do Rio Grande do Sul
+96352,CODIGO INVALIDO
+97000,Região Centro-Oeste
+97120,Estado do Mato Grosso do Sul
+97220,Estado do Mato Grosso
+97320,Estado de Goiás
+97400,Distrito Federal
+99900,República Federativa do Brasil - Unidades com vínculo direto
